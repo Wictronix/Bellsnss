@@ -1,0 +1,4 @@
+User-agent: *
+Allow: https://www.bellsnss.com.au/
+Allow: https://www.bellsnss.com.au/
+Sitemap: https://www.bellsnss.com.au/sitemap.xml

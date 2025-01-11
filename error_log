@@ -1,0 +1,136 @@
+[03-Apr-2024 06:11:19 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): Peer certificate CN=`us2.smtp.mailhostbox.com' did not match expected CN=`smtp.indoital.com' in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php:2173
+Stack trace:
+#0 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1996): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 3 Ap...', '<p><strong>Name...')
+#2 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home4/ecosp5jb/public_html/indoital.com/english/contact-us.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php on line 2173
+[03-Apr-2024 06:17:04 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php:2207
+Stack trace:
+#0 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1996): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 3 Ap...', '<p><strong>Name...')
+#2 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home4/ecosp5jb/public_html/indoital.com/english/contact-us.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php on line 2207
+[03-Apr-2024 06:18:26 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php:2207
+Stack trace:
+#0 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1996): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 3 Ap...', '<p><strong>Name...')
+#2 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home4/ecosp5jb/public_html/indoital.com/english/contact-us.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php on line 2207
+[03-Apr-2024 06:20:40 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php:2207
+Stack trace:
+#0 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1996): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 3 Ap...', '<p><strong>Name...')
+#2 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home4/ecosp5jb/public_html/indoital.com/english/contact-us.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php on line 2207
+[03-Apr-2024 06:21:37 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): Peer certificate CN=`us2.smtp.mailhostbox.com' did not match expected CN=`smtp.indoital.com' in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php:2173
+Stack trace:
+#0 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1996): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 3 Ap...', '<p><strong>Name...')
+#2 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home4/ecosp5jb/public_html/indoital.com/english/contact-us.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php on line 2173
+[03-Apr-2024 06:22:09 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): Peer certificate CN=`us2.smtp.mailhostbox.com' did not match expected CN=`smtp.indoital.com' in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php:2173
+Stack trace:
+#0 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1996): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 3 Ap...', '<p><strong>Name...')
+#2 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home4/ecosp5jb/public_html/indoital.com/english/contact-us.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php on line 2173
+[03-Apr-2024 06:22:16 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): Peer certificate CN=`us2.smtp.mailhostbox.com' did not match expected CN=`smtp.indoital.com' in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php:2173
+Stack trace:
+#0 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1996): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 3 Ap...', '<p><strong>Name...')
+#2 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home4/ecosp5jb/public_html/indoital.com/english/contact-us.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php on line 2173
+[03-Apr-2024 06:22:35 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php:2207
+Stack trace:
+#0 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1996): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 3 Ap...', '<p><strong>Name...')
+#2 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home4/ecosp5jb/public_html/indoital.com/english/contact-us.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php on line 2207
+[03-Apr-2024 06:22:37 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): Peer certificate CN=`us2.smtp.mailhostbox.com' did not match expected CN=`us2.outbound.mailhostbox.com' in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php:2173
+Stack trace:
+#0 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1996): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 3 Ap...', '<p><strong>Name...')
+#2 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home4/ecosp5jb/public_html/indoital.com/english/contact-us.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php on line 2173
+[03-Apr-2024 06:22:39 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): Peer certificate CN=`us2.smtp.mailhostbox.com' did not match expected CN=`us2.outbound.mailhostbox.com' in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php:2173
+Stack trace:
+#0 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1996): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 3 Ap...', '<p><strong>Name...')
+#2 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home4/ecosp5jb/public_html/indoital.com/english/contact-us.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php on line 2173
+[03-Apr-2024 06:24:15 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php:2207
+Stack trace:
+#0 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1996): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 3 Ap...', '<p><strong>Name...')
+#2 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home4/ecosp5jb/public_html/indoital.com/english/contact-us.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php on line 2207
+[03-Apr-2024 06:24:20 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): Peer certificate CN=`us2.smtp.mailhostbox.com' did not match expected CN=`smtp.indoital.com' in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php:2173
+Stack trace:
+#0 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1996): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 3 Ap...', '<p><strong>Name...')
+#2 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home4/ecosp5jb/public_html/indoital.com/english/contact-us.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php on line 2173
+[03-Apr-2024 06:24:46 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. Connection failed. stream_socket_enable_crypto(): Peer certificate CN=`us2.smtp.mailhostbox.com' did not match expected CN=`smtp.indoital.com' in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php:2173
+Stack trace:
+#0 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1996): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 3 Ap...', '<p><strong>Name...')
+#2 /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home4/ecosp5jb/public_html/indoital.com/english/contact-us.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home4/ecosp5jb/public_html/indoital.com/english/phpmailer/src/PHPMailer.php on line 2173
+[03-Oct-2024 05:57:26 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php:2207
+Stack trace:
+#0 /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php(1996): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Thu, 3 Oc...', '<p><strong>Name...')
+#2 /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home2/bellsnsscom/public_html/contact-us.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php on line 2207
+[03-Oct-2024 05:57:34 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php:2207
+Stack trace:
+#0 /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php(1996): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Thu, 3 Oc...', '<p><strong>Name...')
+#2 /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home2/bellsnsscom/public_html/contact-us.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php on line 2207
+[03-Oct-2024 05:58:56 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php:2207
+Stack trace:
+#0 /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php(1996): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Thu, 3 Oc...', '<p><strong>Name...')
+#2 /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home2/bellsnsscom/public_html/contact-us.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php on line 2207
+[03-Oct-2024 06:01:03 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not connect to SMTP host. in /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php:2207
+Stack trace:
+#0 /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php(1996): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php(1662): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Thu, 3 Oc...', '<p><strong>Name...')
+#2 /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php(1500): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home2/bellsnsscom/public_html/contact-us.php(64): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home2/bellsnsscom/public_html/phpmailer/src/PHPMailer.php on line 2207
