@@ -392,7 +392,7 @@
                 </ul>
                 <div class="text">BELL’S transformed my mother's life. Their compassionate team provided the personalized care she needed and helped her integrate into our community seamlessly.</div>
                 <div class="auther-info">
-                  <h4 class="name">Swati</h4>
+                  <h4 class="name">Liam</h4>
                 </div>
                 <div class="icon-box">
 
@@ -415,9 +415,7 @@
                 </ul>
                 <div class="text">I appreciate the tailored care plans from BELL’S . They truly understand individual needs and provide exceptional support and guidance.</div>
                 <div class="auther-info">
-                  <h4 class="name">
-                    Shipra Shyam</h4>
-
+                  <h4 class="name">Lachlan Campbell</h4>
                 </div>
                 <div class="icon-box">
 

@@ -5,22 +5,30 @@
                 <div class="footer-column col-lg-4 col-md-6 col-sm-12">
                     <div class="footer-widget about-widget">
                         <div class="widget-content">
-                            <div class="logo jkll"><img src="images/logo.png" alt /></div>
+                            <div class="footer-logos d-flex flex-lg-row flex-column align-items-center gap-3 mb-3">
+                                <div class="logo jkll"><img src="images/logo.png" alt style="max-width:120px; width:100%; height:auto;" /></div>
+                                <div class="logo jkll"><img src="images/logo2.jpeg" alt style="max-width:120px; width:100%; height:auto;" /></div>
+                                <div class="logo jkll"><img src="images/logo3.png" alt style="max-width:120px; width:100%; height:auto;" /></div>
+                            </div>
+                            <style>
+                                @media (max-width: 991.98px) {
+                                    .footer-logos {
+                                        flex-direction: column !important;
+                                    }
+                                }
+
+                                .footer-logos .logo img {
+                                    display: block;
+                                    margin: 0 auto;
+                                }
+                            </style>
                             <div class="text">To provide tailored and dedicated service to ensure we meet or exceed your requirements</div>
                             <ul class="social-icon-two">
                                 <li>
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="https://www.facebook.com/share/19fzBMuixm/"><i class="fab fa-facebook-f"></i></a>
                                 </li>
                                 <li>
-                                    <a href="#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter-x" viewBox="0 0 16 16">
-                                            <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z" />
-                                        </svg></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-youtube"></i></a>
+                                    <a href="https://www.instagram.com/bells.nss?igsh=MjAzczh6emtjd2Zr"><i class="fab fa-instagram"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -72,7 +80,7 @@
 
 
                             <li><i class="fa fa-volume-control-phone" aria-hidden="true"></i>
-                                <a href="tel:1800 487 235">1800 487 235 </a>
+                                <a href="tel:+61430147281">+61430147281 </a>
                             </li>
 
 

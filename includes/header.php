@@ -1,166 +1,94 @@
-<div class="cp-widget-button">
-    <div data-brand-color="background" onClick="show()" class="cp-widget-button__inner">
-        <a href="https://api.whatsapp.com/send?phone=1800487235"><img src="images/whatsapp.png" /></a>
-    </div>
-</div>
-<div class="cp-widget-button1">
-    <div data-brand-color="background" onClick="show()" class="cp-widget-button__inner1">
-        <a href="tel:1800487235"><img src="images/call.png" /></a>
-    </div>
-</div>
-
-
-
-
-
-
-
-
+<!-- Add Bootstrap CSS in your <head> -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
 <header class="main-header header-style-three">
-    <div class="header-top">
-        <div class="inner-container">
-            <div class="inner-box">
-                <div class="top-left">
-                    <ul class="icons-top">
-                        <li><i class="fa fa-envelope"></i><a href="mailto:info@bellsnss.com.au">info@bellsnss.com.au</a></li>
-                        <!--  <li><i class="fa fa-phone" aria-hidden="true"></i> 
-
-                                  
-
-
-
-                                      </li> -->
-
-                    </ul>
-                </div>
-                <div class="top-right">
-
-                    <ul class="social-list-one">
-                        <li>
-                            <a href="" target="_blank"><i class="fab fa-linkedin"></i></a>
-                        </li>
-                        <li>
-                            <a href="" target="_blank"><i class="fab fa-instagram"></i></a>
-                        </li>
-                    </ul>
-                </div>
+    <div class="container-fluid py-2 border-bottom bg-light">
+        <div class="d-flex justify-content-between align-items-center">
+            <div>
+                <a href="mailto:info@bellsnss.com.au" class="mr-3 text-primary">
+                    <i class="fa fa-envelope"></i> info@bellsnss.com.au
+                </a>
+            </div>
+            <div>
+                <a href="https://www.facebook.com/share/19fzBMuixm/" class="text-blue mr-2"><i class="fab fa-facebook"></i></a>
+                <a href="https://www.instagram.com/bells.nss?igsh=MjAzczh6emtjd2Zr" class="text-blue"><i class="fab fa-instagram"></i></a>
             </div>
         </div>
     </div>
-    <div class="header-lower">
-        <div class="inner-container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-white">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.php">
+                <img src="images/logo.png" alt="Tronis" style="height:60px;">
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNavbar" aria-controls="mainNavbar" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="mainNavbar">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item<?php if (basename($_SERVER['PHP_SELF']) == 'index.php') echo ' active'; ?>">
+                        <a class="nav-link" href="index.php">Home</a>
+                    </li>
+                    <li class="nav-item<?php if (basename($_SERVER['PHP_SELF']) == 'about-company.php') echo ' active'; ?>">
+                        <a class="nav-link" href="about-company.php">About Us</a>
+                    </li>
+                    <li class="nav-item<?php if (basename($_SERVER['PHP_SELF']) == 'our-services.php') echo ' active'; ?>">
+                        <a class="nav-link" href="our-services.php">Our Services</a>
+                    </li>
+                    <li class="nav-item<?php if (basename($_SERVER['PHP_SELF']) == 'our-team.php') echo ' active'; ?>">
+                        <a class="nav-link" href="our-team.php">Our Team</a>
+                    </li>
+                    <li class="nav-item<?php if (basename($_SERVER['PHP_SELF']) == 'blog.php') echo ' active'; ?>">
+                        <a class="nav-link" href="blog.php">Blogs</a>
+                    </li>
+                    <li class="nav-item<?php if (basename($_SERVER['PHP_SELF']) == 'article.php') echo ' active'; ?>">
+                        <a class="nav-link" href="article.php">Articles</a>
+                    </li>
+                    <li class="nav-item<?php if (basename($_SERVER['PHP_SELF']) == 'contact-us.php') echo ' active'; ?>">
+                        <a class="nav-link" href="contact-us.php">Contact Us</a>
+                    </li>
+                </ul>
+                <style>
+                    /* Light blue and dark blue theme */
+                    .navbar-nav .nav-link {
+                        color: #0b3a86;
+                        /* Light blue */
+                        transition: color 0.2s, border-bottom 0.2s;
+                        border-bottom: 2px solid transparent;
+                    }
 
-
-
-            <div class="main-box">
-                <div class="logo-box">
-                    <div class="logo"> <a href="index.php"><img src="images/logo.png" alt title="Tronis" /></a> </div>
-                </div>
-                <div class="nav-outer">
-                    <nav class="nav main-menu ">
-                        <ul class="navigation">
-                            <li class="current"><a href="index.php">Home</a></li>
-                            <li> <a href="about-company.php">About Us</a></li>
-
-                            <li> <a href="our-services.php">Our Services</a></li>
-                            <li><a href="our-team.php">Our Team</a></li>
-
-                            <li><a href="blog.php">Blogs</a></li>
-                            <li><a href="article.php">Articles</a></li>
-                            <li><a href="contact-us.php">Contact Us</a></li>
-                        </ul>
-                    </nav>
-                </div>
-                <div class="logo-box">
-                    <div class="logo"> <a href="index.php"><img src="images/logo-2.png" alt title="Tronis" /></a> </div>
-                </div>
-                <div class="outer-box">
-                    <div class="mobile-nav-toggler"><i class="fa fa-bars"></i></div>
+                    .navbar-nav .nav-link:hover,
+                    .navbar-nav .nav-item.active .nav-link {
+                        color: #003366;
+                        /* Dark blue */
+                        border-bottom: 2px solid #003366;
+                        background: none;
+                    }
+                </style>
+                <div class="d-flex align-items-center">
+                    <a href="index.php" class="mr-3">
+                        <img src="images/logo-2.png" alt="ndis" style="height:64px;">
+                    </a>
+                    <a href="https://api.whatsapp.com/send?phone=+61430147281" class="mr-3">
+                        <img src="images/whatsapp.png" alt="WhatsApp" style="height:32px;">
+                    </a>
+                    <a href="tel:+61430147281" class="mr-3">
+                        <img src="images/call.png" alt="Call" style="height:32px;">
+                    </a>
                 </div>
             </div>
-
-
-
-
-
-
         </div>
-    </div>
-
-
-    <header class="main-header header-style-three">
-        <div class="header-topp">
-            <div class="inner-container">
-
-            </div>
-        </div>
-    </header>
-
-
-
-    <div class="mobile-menu">
-        <div class="menu-backdrop"></div>
-
-        <nav class="menu-box">
-            <div class="upper-box">
-                <div class="nav-logo">
-                    <a href="index.php"><img src="images/logo.png" alt title /></a>
-                </div>
-                <div class="close-btn"><i class="icon fa fa-times"></i></div>
-            </div>
-            <ul class="navigation clearfix"></ul>
-            <ul class="contact-list-one">
-                <li>
-                    <div class="contact-info-box"><i class="icon lnr-icon-phone-handset"></i> <span class="title">Call Now</span><a href="tel:1800487235">1800 487 235</a></div>
-                </li>
-                <li>
-                    <div class="contact-info-box">
-                        <span class="icon lnr-icon-envelope1"></span> <span class="title">Send Email</span>
-                        <a href="mailto:info@bellsnss.com.au">info@bellsnss.com.au</a>
-                    </div>
-                </li>
-
-            </ul>
-
-        </nav>
-    </div>
-
-    <div class="search-popup">
-        <span class="search-back-drop"></span>
-        <button class="close-search"><span class="fa fa-times"></span></button>
-        <div class="search-inner">
-            <form method="post" action="#">
-                <div class="form-group">
-                    <input type="search" name="search-field" value placeholder="Search..." required />
-                    <button type="submit"><i class="fa fa-search"></i></button>
-                </div>
-            </form>
-        </div>
-    </div>
-
-    <!--     <div class="sticky-header">
-                    <div class="auto-container">
-                        <div class="inner-container">
-                            <div class="logo">
-                                <a href="index.php" title><img src="images/logo.png" alt title /></a>
-                            </div>
-
-                            <div class="nav-outer">
-                                <nav class="main-menu">
-                                    <div class="navbar-collapse show collapse clearfix">
-                                        <ul class="navigation clearfix"></ul>
-                                    </div>
-                                </nav>
-
-                                <div class="mobile-nav-toggler"><i class="fa fa-bars"></i></div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
+    </nav>
 </header>
 
-
+<!-- Mobile Contact Quick Actions -->
+<div class="d-lg-none fixed-bottom bg-white border-top py-2 d-flex justify-content-around">
+    <a href="https://api.whatsapp.com/send?phone=+61430147281">
+        <img src="images/whatsapp.png" alt="WhatsApp" style="height:32px;">
+    </a>
+    <a href="tel:+61430147281">
+        <img src="images/call.png" alt="Call" style="height:32px;">
+    </a>
+</div>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-3WXT93SHRG"></script>
@@ -171,6 +99,9 @@
         dataLayer.push(arguments);
     }
     gtag('js', new Date());
-
     gtag('config', 'G-3WXT93SHRG');
 </script>
+
+<!-- Add Bootstrap JS at the end of body -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/js/bootstrap.bundle.min.js"></script>
