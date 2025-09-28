@@ -485,12 +485,12 @@
           <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
             <div class="inner-box">
               <div class="image-box">
-                <figure class="image overlay-anim"><img src="images/ser-1.jpg" alt /></figure>
+                <figure class="image overlay-anim"><img src="images/blogs/blog1.jpg" alt /></figure>
               </div>
               <div class="content-box">
-                <h4 class="title"><a href="blog-details.php">Understanding NDIS: A Comprehensive Guide</a></h4>
-                <div class="text">Learn everything you need to know about the National Disability Insurance Scheme (NDIS) and know more about it...</div>
-                <div class="btmm text-center"> <a href="blog-details.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                <h4 class="title"><a href="blog-unsung-heroes.php">The Unsung Heroes: How Nurses Empower Specially-Abled Patients</a></h4>
+                <div class="text">Discover how nurses are the backbone of healthcare, empowering specially-abled patients through adaptive techniques, decision-making support, and confidence building...</div>
+                <div class="btmm text-center"> <a href="blog-unsung-heroes.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
             </div>
           </div>
@@ -498,12 +498,12 @@
           <div class="service-block col-lg-4 col-sm-6 wow fadeInUp">
             <div class="inner-box">
               <div class="image-box">
-                <figure class="image overlay-anim"><img src="images/ser-2.jpg" alt /></figure>
+                <figure class="image overlay-anim"><img src="images/blogs/blog2.jpg" alt /></figure>
               </div>
               <div class="content-box">
-                <h4 class="title"><a href="blog-details.php">Top 5 Tips for Daily Personal Care</a></h4>
-                <div class="text">Discover essential tips for maintaining daily personal care routines for individuals with disabilities...</div>
-                <div class="btmm text-center"> <a href="blog-details.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                <h4 class="title"><a href="blog-home-based-care.php">The Nurse's Guide to Home-Based Care for Specially-Abled Patients</a></h4>
+                <div class="text">Learn comprehensive strategies for providing quality home-based care, including holistic evaluation, safety measures, and family support...</div>
+                <div class="btmm text-center"> <a href="blog-home-based-care.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
             </div>
           </div>
@@ -511,12 +511,25 @@
           <div class="service-block col-lg-4 col-sm-6 wow fadeInUp">
             <div class="inner-box">
               <div class="image-box">
-                <figure class="image overlay-anim"><img src="images/ser-3.jpg" alt /></figure>
+                <figure class="image overlay-anim"><img src="images/blogs/blog3.jpg" alt /></figure>
               </div>
               <div class="content-box">
-                <h4 class="title"><a href="blog-details.php">How to Assist with Travel for People with Disabilities</a></h4>
-                <div class="text">Learn the best practices for assisting individuals with disabilities when traveling different places...</div>
-                <div class="btmm text-center"> <a href="blog-details.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                <h4 class="title"><a href="blog-innovations-nursing.php">Innovations in Nursing Care for Specially-Abled Individuals</a></h4>
+                <div class="text">Explore how technology and innovation are revolutionizing nursing care through smart home integration, wearable sensors, and AI-enhanced systems...</div>
+                <div class="btmm text-center"> <a href="blog-innovations-nursing.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="400ms">
+            <div class="inner-box">
+              <div class="image-box">
+                <figure class="image overlay-anim"><img src="images/blogs/blog4.jpg" alt /></figure>
+              </div>
+              <div class="content-box">
+                <h4 class="title"><a href="blog-mental-health.php">Addressing Mental Health in Specially-Abled Patients</a></h4>
+                <div class="text">Understanding and addressing the unique mental health challenges faced by specially-abled individuals through evidence-based nursing strategies...</div>
+                <div class="btmm text-center"> <a href="blog-mental-health.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
             </div>
           </div>
