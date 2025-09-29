@@ -45,7 +45,7 @@
                                 <li><a href="our-services.php">- Our Services</a></li>
                                 <li><a href="our-team.php">- Our Team</a></li>
                                 <li><a href="blog.php">- Blogs</a></li>
-                                <li><a href="article.php">- Articles</a></li>
+                                <!-- <li><a href="article.php">- Articles</a></li> -->
 
                                 <li><a href="contact-us.php">- Contact Us</a></li>
                             </ul>

@@ -40,9 +40,9 @@
                     <li class="nav-item<?php if (basename($_SERVER['PHP_SELF']) == 'blog.php') echo ' active'; ?>">
                         <a class="nav-link" href="blog.php">Blogs</a>
                     </li>
-                    <li class="nav-item<?php if (basename($_SERVER['PHP_SELF']) == 'article.php') echo ' active'; ?>">
+                    <!-- <li class="nav-item<?php if (basename($_SERVER['PHP_SELF']) == 'article.php') echo ' active'; ?>">
                         <a class="nav-link" href="article.php">Articles</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item<?php if (basename($_SERVER['PHP_SELF']) == 'contact-us.php') echo ' active'; ?>">
                         <a class="nav-link" href="contact-us.php">Contact Us</a>
                     </li>
@@ -93,19 +93,33 @@
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HK5LK2BNRK"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'G-HK5LK2BNRK');
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-HK5LK2BNRK');
 </script>
 
 <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-PGGNC3QT');</script>
+<script>
+    (function(w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-PGGNC3QT');
+</script>
 <!-- End Google Tag Manager -->
 
 <!-- Add Bootstrap JS at the end of body -->

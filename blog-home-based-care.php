@@ -200,60 +200,6 @@
         </section>
         <!-- End Blog Detail Section -->
 
-        <!-- Related Posts Section -->
-        <section class="related-posts-section" style="background-color: #f8f9fa; padding: 60px 0;">
-            <div class="auto-container">
-                <div class="sec-title-two text-center">
-                    <h2>Related <span class="h2-about">Articles</span></h2>
-                    <div class="headingtag">
-                        <p>Explore more insights on nursing care and patient support</p>
-                    </div>
-                </div>
-
-                <div class="row">
-                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <figure class="image overlay-anim"><img src="images/ser-1.jpg" alt /></figure>
-                            </div>
-                            <div class="content-box">
-                                <h4 class="title"><a href="blog-unsung-heroes.php">The Unsung Heroes</a></h4>
-                                <div class="text">Discover how nurses empower specially-abled patients through compassionate care...</div>
-                                <div class="btmm text-center"> <a href="blog-unsung-heroes.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <figure class="image overlay-anim"><img src="images/ser-3.jpg" alt /></figure>
-                            </div>
-                            <div class="content-box">
-                                <h4 class="title"><a href="blog-innovations-nursing.php">Innovations in Nursing Care</a></h4>
-                                <div class="text">Explore how technology is revolutionizing nursing care for specially-abled individuals...</div>
-                                <div class="btmm text-center"> <a href="blog-innovations-nursing.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <figure class="image overlay-anim"><img src="images/ser-1.jpg" alt /></figure>
-                            </div>
-                            <div class="content-box">
-                                <h4 class="title"><a href="blog-mental-health.php">Addressing Mental Health</a></h4>
-                                <div class="text">Understanding mental health challenges in specially-abled patients...</div>
-                                <div class="btmm text-center"> <a href="blog-mental-health.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- End Related Posts Section -->
-
         <!-- Footer -->
         <?php include("includes/footer.php"); ?>
         <!-- End Footer -->

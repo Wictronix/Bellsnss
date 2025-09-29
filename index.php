@@ -540,7 +540,7 @@
     </section>
 
     <!-- articles -->
-    <section class="services-section">
+    <!-- <section class="services-section">
       <div class="auto-container">
         <div class="sec-title-two text-center">
           <h2><span class="h2-about">ARTICLES</span> </h2>
@@ -589,7 +589,7 @@
         </div>
 
       </div>
-    </section>
+    </section> -->
 
     <section class="clients-section-five" style="background-image: url(images/wood-dark.png); ">
       <div class="auto-container text-center">
