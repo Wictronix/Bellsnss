@@ -84,6 +84,33 @@
 
                 <div class="row ">
 
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="400ms">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image overlay-anim"><img src="images/blogs/blog5.jpg" alt /></figure>
+                            </div>
+                            <div class="content-box">
+                                <h4 class="title"><a href="blog-heart-of-inclusive-community-care.php">The Heart of Inclusive Community Care</a></h4>
+                                <div class="text">Bell’s NSS champions person-centered care across Victoria — from daily living support to specialist accommodation and community programs that create belonging...</div>
+                                <div class="btmm text-center"> <a href="blog-heart-of-inclusive-community-care.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="400ms">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image overlay-anim"><img src="images/blogs/blog6.jpg" alt /></figure>
+                            </div>
+                            <div class="content-box">
+                                <h4 class="title"><a href="blog-why-bells-nss-trusted-choice.php">Why Bell’s NSS is the Trusted Choice</a></h4>
+                                <div class="text">From personalised plans to NDIS registration and experienced nursing staff, Bell’s NSS offers safe, supportive and connected care tailored to each client’s needs...</div>
+                                <div class="btmm text-center"> <a href="blog-why-bells-nss-trusted-choice.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                            </div>
+                        </div>
+                    </div>
+
                     <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="inner-box">
                             <div class="image-box">
