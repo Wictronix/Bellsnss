@@ -3,9 +3,9 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-             <title>BELL'S SPECIALISED NURSING & SUPPORT SERVICE - NDIS Registered Provider in Melbourne, VIC, Australia</title>
-<meta name="description" content="BELL’S NSS is established to assist and service people with disability to overcome challenges they face in their everyday life. To provide tailored and dedicated service to ensure we meet or exceed your requirements.NDIS Registered Provider in Melbourne, VIC, Australia "/>
-<meta name="keywords" content="BELL'S SPECIALISED NURSING & SUPPORT SERVICE BELL'S SPECIALISED NURSING & SUPPORT SERVICE near me, NDIS Registered Provider in Melbourne, VIC, Australia, NDIS Support Provider in Melbourne, VIC, Australia, NDIS Registered Provider, NDIS Registered Provider near me, NDIS Support Provider, NDIS Support Provider near me, Community Nursing Care, Daily Personal Care, Assistance with Travel, Household Tasks, Participate in Social Activities, Community Nursing Care near me, Daily Personal Care near me, Assistance with Travel near me, Household Tasks near me, Participate in Social Activities near me, Community Nursing Care Services Provider in Melbourne, VIC Australia, Daily Personal Care Services Provider in Melbourne, VIC, Australia, Assistance with Travel Services Provider in Melbourne, VIC, Australia, Household Tasks Services Provider in Melbourne, VIC, Australia, Participate in Social Activities Services Provider in Melbourne, VIC, Australia, Community Nursing Care Services in Melbourne, VIC, Australia, Daily Personal Care Services in Melbourne, VIC, Australia, Assistance with Travel Services in Melbourne, VIC, Australia, Household Tasks Services in Melbourne, VIC, Australia, Participate in Social Activities Services in Melbourne, VIC, Australia "/> 
+<title>Why Choose BELL'S | Melbourne's NDIS Specialist | Complex Care</title>
+<meta name="description" content="We are Melbourne's NDIS specialists in complex & high-intensity care for disabled people in Melbourne. Our qualified, experienced nurses & support team empower you to live a great life." />
+<meta name="keywords" content="Why choose Bell's NSS, NDIS complex care specialist, NDIS registered nurse Melbourne" />
 <meta name="robots" content="all"/>
 <meta name= "resource-type" content="document"/>
 <meta name= "page-topic" content="NDIS Services"/>

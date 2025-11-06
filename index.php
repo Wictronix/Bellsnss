@@ -3,9 +3,9 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>BELL'S SPECIALISED NURSING & SUPPORT SERVICE - NDIS Registered Provider in Melbourne, VIC, Australia</title>
-  <meta name="description" content="BELL’S NSS is established to assist and service people with disability to overcome challenges they face in their everyday life. To provide tailored and dedicated service to ensure we meet or exceed your requirements.NDIS Registered Provider in Melbourne, VIC, Australia " />
-  <meta name="keywords" content="BELL'S SPECIALISED NURSING & SUPPORT SERVICE BELL'S SPECIALISED NURSING & SUPPORT SERVICE near me, NDIS Registered Provider in Melbourne, VIC, Australia, NDIS Support Provider in Melbourne, VIC, Australia, NDIS Registered Provider, NDIS Registered Provider near me, NDIS Support Provider, NDIS Support Provider near me, Community Nursing Care, Daily Personal Care, Assistance with Travel, Household Tasks, Participate in Social Activities, Community Nursing Care near me, Daily Personal Care near me, Assistance with Travel near me, Household Tasks near me, Participate in Social Activities near me, Community Nursing Care Services Provider in Melbourne, VIC Australia, Daily Personal Care Services Provider in Melbourne, VIC, Australia, Assistance with Travel Services Provider in Melbourne, VIC, Australia, Household Tasks Services Provider in Melbourne, VIC, Australia, Participate in Social Activities Services Provider in Melbourne, VIC, Australia, Community Nursing Care Services in Melbourne, VIC, Australia, Daily Personal Care Services in Melbourne, VIC, Australia, Assistance with Travel Services in Melbourne, VIC, Australia, Household Tasks Services in Melbourne, VIC, Australia, Participate in Social Activities Services in Melbourne, VIC, Australia " />
+  <title>BELL'S | Registered NDIS Provider Melbourne | High Intensity, Nursing & SIL</title>
+  <meta name="description" content="Bell's is a leading registered NDIS provider in Melbourne, VIC, Australia. We specialise in Disability Support Services, High Intensity support, Supported Independent Living, Specialist Disability Accomodation, and NDIS Community Nursing for complex needs to people aged 5-60." />
+  <meta name="keywords" content="NDIS provider Melbourne, Disability support services Melbourne, High Intensity NDIS, NDIS community nursing, Supported Independent Living, Specialist Disability Accomodation" />
   <meta name="robots" content="all" />
   <meta name="resource-type" content="document" />
   <meta name="page-topic" content="NDIS Services" />
@@ -155,10 +155,10 @@
           <div class="content-column col-lg-7 wow fadeInLeft">
             <div class="inner-column about">
 
-              <h2 class="title jkl">To provide tailored and dedicated service to ensure we meet or exceed your requirements. </h2>
+              <h2 class="title jkl">We offer specialized, committed disability support services to assist you in overcoming obstacles and realizing your objectives. </h2>
               <div class="text">
                 <p>
-                  BELL’S NSS is established to assist and service people with disability to overcome challenges they face in their everyday life.
+                  With specialized in-home disability support that truly makes a difference, BELL'S NSS is here to help people with disabilities.
                 </p>
               </div>
               <!-- <ul class="about-list">
@@ -193,7 +193,7 @@
                 <div class="counter-title">
                   <h4>Our Mission</h4>
                 </div>
-                <p class="ttt">To deliver excellent, high quality and caring support services to our participants.</p>
+                <p class="ttt">To provide our participants with exceptional, compassionate, and superior in-home disability support services, always with respect and decency.</p>
               </div>
             </div>
           </div>
@@ -204,7 +204,7 @@
                 <div class="counter-title">
                   <h4>Our Vision</h4>
                 </div>
-                <p class="ttt">To be a multicultural, disability focused NDIS service provider who are recognised within the community.</p>
+                <p class="ttt">To be the most well-known multicultural NDIS provider in Melbourne, promoting an inclusive, disability-focused community.</p>
               </div>
             </div>
           </div>
@@ -215,7 +215,7 @@
                 <div class="counter-title">
                   <h4>Our Values</h4>
                 </div>
-                <p class="ttt">We are built upon the values of Multiculturalism, Acceptance and Excellence.</p>
+                <p class="ttt">The principles of excellence, acceptance, and multiculturalism form the foundation of every NDIS service we offer.</p>
                 <br>
               </div>
             </div>
@@ -249,7 +249,7 @@
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="#">Community Nursing Care</a></h4>
-                <div class="text">Bell's NSS team of professional, multicultural, and experienced nurses...
+                <div class="text">For complex clinical needs, our multicultural, professional nursing team provides skilled NDIS community nursing in the convenience of your own home.
                 </div>
                 <div class="btmm  text-center"> <a href="contact-us.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
@@ -265,7 +265,7 @@
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="#">Daily personal care</a></h4>
-                <div class="text">Bell's NSS understands that each person is unique and requires services...
+                <div class="text">Our respectful NDIS personal care services assist you in maintaining your independence and daily routine.
                 </div>
                 <div class="btmm  text-center"> <a href="contact-us.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
@@ -282,7 +282,7 @@
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="#">Assistance with travel </a></h4>
-                <div class="text">Moving from one place to another is always challenging for people with disabilities...
+                <div class="text">You can move safely with the reliable NDIS travel assistance. We encourage appointments, community access, and your favorite social activities.
                 </div>
                 <div class="btmm  text-center"> <a href="contact-us.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
@@ -303,7 +303,7 @@
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="#"> Household tasks</a></h4>
-                <div class="text">Bell's NSS assistive products for household tasks are designed to make life simpler...
+                <div class="text">To create a safe home and simplify life, we help with meal preparation, cleaning, and gardening in our NDIS household tasks assistance.
                 </div>
                 <div class="btmm  text-center"> <a href="contact-us.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
@@ -318,7 +318,7 @@
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="#">Participate in social activities</a></h4>
-                <div class="text">At Bell's NSS, we want to create an inclusive environment for participants...
+                <div class="text">We establish a welcoming atmosphere for social events.  Our team helps you connect with your community and learn new skills.
                 </div>
                 <div class="btmm  text-center"> <a href="contact-us.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
@@ -352,7 +352,7 @@
           <div class="col-md-12">
             <div class="want">
               <p>THE TRADITIONAL CUSTODIANS</p>
-              <h2>We Acknowledge the traditional owners of the land where we work and live and pay our respects to Elders past and present.</h2>
+              <h2>We honor both current and former elders and acknowledge the traditional owners of the land on which we live and work.</h2>
             </div>
           </div>
           <!--   <div class="col-md-3">
@@ -488,8 +488,8 @@
                 <figure class="image overlay-anim"><img src="images/blogs/blog1.jpg" alt /></figure>
               </div>
               <div class="content-box">
-                <h4 class="title"><a href="blog-unsung-heroes.php">The Unsung Heroes: How Nurses Empower Specially-Abled Patients</a></h4>
-                <div class="text">Discover how nurses are the backbone of healthcare, empowering specially-abled patients through adaptive techniques, decision-making support, and confidence building...</div>
+                <h4 class="title"><a href="blog-unsung-heroes.php">The Unsung Heroes: How Nurses Empower Specially-Abled Patients in NDIS</a></h4>
+                <div class="text">Discover how nurses are the backbone of NDIS healthcare, empowering specially-abled patients through adaptive techniques, decision-making support, and confidence building...</div>
                 <div class="btmm text-center"> <a href="blog-unsung-heroes.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
             </div>
@@ -502,7 +502,7 @@
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="blog-home-based-care.php">The Nurse's Guide to Home-Based Care for Specially-Abled Patients</a></h4>
-                <div class="text">Learn comprehensive strategies for providing quality home-based care, including holistic evaluation, safety measures, and family support...</div>
+                <div class="text">Learn NDIS comprehensive strategies for providing quality home-based care, including holistic evaluation, safety measures, and family support...</div>
                 <div class="btmm text-center"> <a href="blog-home-based-care.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
             </div>

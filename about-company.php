@@ -3,9 +3,9 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-<title>BELL'S SPECIALISED NURSING & SUPPORT SERVICE - NDIS Registered Provider in Melbourne, VIC, Australia</title>
-<meta name="description" content="BELL’S NSS is established to assist and service people with disability to overcome challenges they face in their everyday life. To provide tailored and dedicated service to ensure we meet or exceed your requirements.NDIS Registered Provider in Melbourne, VIC, Australia "/>
-<meta name="keywords" content="BELL'S SPECIALISED NURSING & SUPPORT SERVICE BELL'S SPECIALISED NURSING & SUPPORT SERVICE near me, NDIS Registered Provider in Melbourne, VIC, Australia, NDIS Support Provider in Melbourne, VIC, Australia, NDIS Registered Provider, NDIS Registered Provider near me, NDIS Support Provider, NDIS Support Provider near me, Community Nursing Care, Daily Personal Care, Assistance with Travel, Household Tasks, Participate in Social Activities, Community Nursing Care near me, Daily Personal Care near me, Assistance with Travel near me, Household Tasks near me, Participate in Social Activities near me, Community Nursing Care Services Provider in Melbourne, VIC Australia, Daily Personal Care Services Provider in Melbourne, VIC, Australia, Assistance with Travel Services Provider in Melbourne, VIC, Australia, Household Tasks Services Provider in Melbourne, VIC, Australia, Participate in Social Activities Services Provider in Melbourne, VIC, Australia, Community Nursing Care Services in Melbourne, VIC, Australia, Daily Personal Care Services in Melbourne, VIC, Australia, Assistance with Travel Services in Melbourne, VIC, Australia, Household Tasks Services in Melbourne, VIC, Australia, Participate in Social Activities Services in Melbourne, VIC, Australia "/> 
+<title>About BELL'S | NDIS Mission & Values | Multicultural Disability Care Specialist</title>
+<meta name="description" content="Learn about Bell's, a leading multicultural NDIS provider in Melbourne. Our mission is to empower people aged 5-60 with disabilities to live a great life with choice, dignity & respect." />
+<meta name="keywords" content="About Bell's NSS, Multicultural NDIS provider Melbourne, NDIS provider mission" />
 <meta name="robots" content="all"/>
 <meta name= "resource-type" content="document"/>
 <meta name= "page-topic" content="NDIS Services"/>
@@ -82,7 +82,7 @@
                     <div class="text"> 
 
                          
-                        <p> <strong>Bell’s</strong> specialized nursing and support service takes pride in providing personalized and holistic care to NDIS participants. We assist participants with innovative care and quality to accomplish goals and lead quality of life. We are team of husband and wife. We both enjoy socializing with people and helping them, and decided to convert our passion into a profession. I am Bell, Registered Nurse and husband Sunny is aged care qualified and experienced. We have extensive experience working with people from different cultures and backgrounds with large and small organizations. We are working with Eastern Health, Monash health, and private nursing home and in-home community care services. We have been in the healthcare industry for the last 10 years.
+                        <p> <strong>Bell’s</strong>specialized nursing and support service's NDIS participants can receive individualized, comprehensive in-home disability support.  Being one of Melbourne's top multicultural NDIS providers, we offer participants creative, high-quality care to help them achieve their objectives and live satisfying lives. Our team was founded on family values by a husband and wife who made their love of helping others their career.  My husband, Sunny, is a qualified expert in aged care, and I, Bell, am an NDIS Registered Nurse in Melbourne.  We have worked with a variety of cultural backgrounds at Eastern Health, Monash Health, and in-home community care for more than ten years.
 
 
 
@@ -130,7 +130,7 @@
                     <div class="text"> 
 
                          <h4>About Bell</h4>
-                        <p> I’m a kind, passionate carer who enjoys working with individuals. I am one of the fortunate few who has been able to convert their passion into their profession. My nursing qualification along with my interpersonal skills allow me to provide holistic care and support for individuals.<br><br>
+                        <p> I’m a kind, passionate carer who enjoys working with multi-cultural individuals. I am one of the fortunate few who has been able to convert their passion into their profession. My nursing qualification along with my interpersonal skills allow me to provide holistic care and support for specially-abled individuals.<br><br>
 
 I have attained certificate III in aged and community care and completed Master of Nursing at Monash University. My qualification has enabled me to provide range of services such as aged and community care, ward-based nursing, and community nursing to individuals with different age groups and multicultural backgrounds for more than 10 years.
 

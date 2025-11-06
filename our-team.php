@@ -74,9 +74,9 @@ if (isset($_POST['submit'])) {
 
 <head>
   <meta charset="utf-8" />
-  <title>BELL'S SPECIALISED NURSING & SUPPORT SERVICE - NDIS Registered Provider in Melbourne, VIC, Australia</title>
-  <meta name="description" content="BELL’S NSS is established to assist and service people with disability to overcome challenges they face in their everyday life. To provide tailored and dedicated service to ensure we meet or exceed your requirements.NDIS Registered Provider in Melbourne, VIC, Australia " />
-  <meta name="keywords" content="BELL'S SPECIALISED NURSING & SUPPORT SERVICE BELL'S SPECIALISED NURSING & SUPPORT SERVICE near me, NDIS Registered Provider in Melbourne, VIC, Australia, NDIS Support Provider in Melbourne, VIC, Australia, NDIS Registered Provider, NDIS Registered Provider near me, NDIS Support Provider, NDIS Support Provider near me, Community Nursing Care, Daily Personal Care, Assistance with Travel, Household Tasks, Participate in Social Activities, Community Nursing Care near me, Daily Personal Care near me, Assistance with Travel near me, Household Tasks near me, Participate in Social Activities near me, Community Nursing Care Services Provider in Melbourne, VIC Australia, Daily Personal Care Services Provider in Melbourne, VIC, Australia, Assistance with Travel Services Provider in Melbourne, VIC, Australia, Household Tasks Services Provider in Melbourne, VIC, Australia, Participate in Social Activities Services Provider in Melbourne, VIC, Australia, Community Nursing Care Services in Melbourne, VIC, Australia, Daily Personal Care Services in Melbourne, VIC, Australia, Assistance with Travel Services in Melbourne, VIC, Australia, Household Tasks Services in Melbourne, VIC, Australia, Participate in Social Activities Services in Melbourne, VIC, Australia " />
+  <title>Meet Our NDIS Team | Registered Nurses & Support Staff | BELL'S</title>
+  <meta name="description" content="Meet the BELL'S NSS team in Melbourne. We are a dedicated group of qualified registered nurses and compassionate, multicultural support workers specialising in complex NDIS care." />
+  <meta name="keywords" content="BELL'S SPECIALISED NURSING & SUPPORT SERVICE, BELL'S SPECIALISED NURSING & SUPPORT SERVICE near me, NDIS Registered Provider in Melbourne, VIC, Australia, NDIS Support Provider in Melbourne, VIC, Australia, NDIS Registered Provider, NDIS Registered Provider near me, NDIS Support Provider, NDIS Support Provider near me, Community Nursing Care, Daily Personal Care, Assistance with Travel, Household Tasks, Participate in Social Activities, Community Nursing Care near me, Daily Personal Care near me, Assistance with Travel near me, Household Tasks near me, Participate in Social Activities near me, Community Nursing Care Services Provider in Melbourne, VIC Australia, Daily Personal Care Services Provider in Melbourne, VIC, Australia, Assistance with Travel Services Provider in Melbourne, VIC, Australia, Household Tasks Services Provider in Melbourne, VIC, Australia, Participate in Social Activities Services Provider in Melbourne, VIC, Australia, Community Nursing Care Services in Melbourne, VIC, Australia, Daily Personal Care Services in Melbourne, VIC, Australia, Assistance with Travel Services in Melbourne, VIC, Australia, Household Tasks Services in Melbourne, VIC, Australia, Participate in Social Activities Services in Melbourne, VIC, Australia " />
   <meta name="robots" content="all" />
   <meta name="resource-type" content="document" />
   <meta name="page-topic" content="NDIS Services" />
@@ -168,15 +168,15 @@ if (isset($_POST['submit'])) {
 
 
                 <h2 class="title jkl">Working At Bell's NSS </h2>
-                <p>The team at Bell’s NSS is fun and passionate, and the work we do is rewarding. We provide a positive and caring environment for our team members as well as our clients.<br>
+                <p>The people at Bell's NSS care about you, are qualified, and are dedicated to you. We enjoy helping people with the NDIS, and we make sure that everyone on our team and everyone who participates feels welcome and cared for.<br>
 
-                  We believe in providing the best quality in-home care through personality and personalisation. We do that by finding the right people and developing their skills.</p>
+                  We provide the best quality in-home disability support by matching your personality, needs, and cultural background with the right support worker.  We do this by hiring the right people and giving them the training they need to become experts in their field.</p>
               </div>
               <div class="text">
 
 
                 <h2 class="title jkl">Who Do We Look For </h2>
-                <p>We value diversity and the unique community experience that you can bring to your role. In fact, we’re passionate about matching NDIS participants with disability support workers who understand their social, cultural and community needs. Whether you’re an experienced Support Worker or looking to start an exciting journey in disability care, we want to hear from you.</p>
+                <p>We value diversity and the unique experience you bring to the community.  We care deeply about providing disability support that takes culture into account. We match NDIS participants with workers who understand where they come from.  We want to hear from you whether you are a registered nurse with the NDIS, a disability support worker, or just starting out in care.</p>
               </div>
             </div>
           </div>

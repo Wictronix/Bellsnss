@@ -101,7 +101,7 @@
         <div class="auto-container">
             <div class="inner-container">
                 <div class="copyright-text">
-                    © Copyright 2024 BELL'S SPECIALISED NURSING & SUPPORT SERVICE | All Rights Reserved | <a href="https://www.inkwebsolutions.com/" target="_blank" style="color: white;">Website Designed By : Ink Web Solutions</a>
+                    © Copyright 2024 BELL'S SPECIALISED NURSING & SUPPORT SERVICE | All Rights Reserved | <a href="https://wictronix.com/" target="_blank" style="color: white;">Powered By : WictroniX</a>
                 </div>
                 <div class="scroll-to-top scroll-to-target arrow-btn" data-target="html"><i class="fa-sharp fa-solid fa-arrow-up"></i></div>
             </div>
