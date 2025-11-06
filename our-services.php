@@ -92,7 +92,7 @@
           </div>
           <div class="content-box">
             <h4 class="title"><a href="contact-us.php">Community Nursing Care</a></h4>
-            <div class="text">For complex clinical needs, our multicultural, professional nursing team provides skilled NDIS community nursing in the convenience of your own home.
+            <div class="text">For complex clinical needs, our multicultural, professional nursing team provides skilled NDIS community nursing.
 </div>
             <div class="btmm  text-center"> <a href="contact-us.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
           </div>
@@ -125,7 +125,7 @@
           </div>
           <div class="content-box">
             <h4 class="title"><a href="contact-us.php">Assistance with travel </a></h4>
-            <div class="text">You can move safely with the reliable NDIS travel assistance. We encourage appointments, community access, and your favorite social activities.
+            <div class="text">Move safely with the reliable NDIS travel assistance. We encourage appointments, community access, and favorite social activities.
 </div>
             <div class="btmm  text-center"> <a href="contact-us.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
           </div>
@@ -146,7 +146,7 @@
           </div>
           <div class="content-box">
             <h4 class="title"><a href="contact-us.php">  Household tasks</a></h4>
-            <div class="text">To create a safe home and simplify life, we help with meal preparation, cleaning, and gardening in our NDIS household tasks assistance.
+            <div class="text">To simplify life, we help with meal preparation, cleaning, and gardening in our NDIS household tasks assistance.
 </div>
             <div class="btmm  text-center"> <a href="contact-us.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
           </div>

@@ -155,10 +155,10 @@
           <div class="content-column col-lg-7 wow fadeInLeft">
             <div class="inner-column about">
 
-              <h2 class="title jkl">We offer specialized, committed disability support services to assist you in overcoming obstacles and realizing your objectives. </h2>
+              <h2 class="title jkl">Building independence through specialized care and in-home support that understands you. </h2>
               <div class="text">
                 <p>
-                  With specialized in-home disability support that truly makes a difference, BELL'S NSS is here to help people with disabilities.
+                  Empowering individuals with dignity and respect through expert care, BELL'S NSS is here to help people with disabilities.
                 </p>
               </div>
               <!-- <ul class="about-list">
@@ -249,7 +249,7 @@
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="#">Community Nursing Care</a></h4>
-                <div class="text">For complex clinical needs, our multicultural, professional nursing team provides skilled NDIS community nursing in the convenience of your own home.
+                <div class="text">For complex clinical needs, our multicultural, professional nursing team provides skilled NDIS community nursing.
                 </div>
                 <div class="btmm  text-center"> <a href="contact-us.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
@@ -282,7 +282,7 @@
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="#">Assistance with travel </a></h4>
-                <div class="text">You can move safely with the reliable NDIS travel assistance. We encourage appointments, community access, and your favorite social activities.
+                <div class="text">Move safely with the reliable NDIS travel assistance. We encourage appointments, community access, and favorite social activities.
                 </div>
                 <div class="btmm  text-center"> <a href="contact-us.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
@@ -303,7 +303,7 @@
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="#"> Household tasks</a></h4>
-                <div class="text">To create a safe home and simplify life, we help with meal preparation, cleaning, and gardening in our NDIS household tasks assistance.
+                <div class="text">To simplify life, we help with meal preparation, cleaning, and gardening in our NDIS household tasks assistance.
                 </div>
                 <div class="btmm  text-center"> <a href="contact-us.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
