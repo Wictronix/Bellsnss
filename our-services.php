@@ -125,7 +125,7 @@
           </div>
           <div class="content-box">
             <h4 class="title"><a href="contact-us.php">Assistance with travel </a></h4>
-            <div class="text">Move safely with the reliable NDIS travel assistance. We encourage appointments, community access, and favorite social activities.
+            <div class="text">Move safely with the reliable NDIS travel assistance. We encourage appointments, community access, and social activities.
 </div>
             <div class="btmm  text-center"> <a href="contact-us.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
           </div>

@@ -155,10 +155,10 @@
           <div class="content-column col-lg-7 wow fadeInLeft">
             <div class="inner-column about">
 
-              <h2 class="title jkl">Building independence through specialized care and in-home support that understands you. </h2>
+              <h2 class="title jkl">Building independence through specialized care and In-home support that understands you. </h2>
               <div class="text">
                 <p>
-                  Empowering individuals with dignity and respect through expert care, BELL'S NSS is here to help people with disabilities.
+                  Empowering individuals with dignity and respect through expert care. BELL'S NSS is here to help people with disabilities.
                 </p>
               </div>
               <!-- <ul class="about-list">
@@ -282,7 +282,7 @@
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="#">Assistance with travel </a></h4>
-                <div class="text">Move safely with the reliable NDIS travel assistance. We encourage appointments, community access, and favorite social activities.
+                <div class="text">Move safely with the reliable NDIS travel assistance. We encourage appointments, community access, and social activities.
                 </div>
                 <div class="btmm  text-center"> <a href="contact-us.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
@@ -489,7 +489,7 @@
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="blog-unsung-heroes.php">The Unsung Heroes: How Nurses Empower Specially-Abled Patients in NDIS</a></h4>
-                <div class="text">Discover how nurses are the backbone of NDIS healthcare, empowering specially-abled patients through adaptive techniques, decision-making support, and confidence building...</div>
+                <div class="text">Discover how community nurses are the backbone of NDIS, empowering patients through adaptive techniques, decision-making support, and confidence building...</div>
                 <div class="btmm text-center"> <a href="blog-unsung-heroes.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
             </div>
