@@ -84,6 +84,31 @@
 
                 <div class="row ">
 
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image overlay-anim"><img src="images/blogs/blog8.jpg" alt /></figure>
+                            </div>
+                            <div class="content-box">
+                                <h4 class="title"><a href="blog-personalized-care.php">Personalized Care for Every Individual</a></h4>
+                                <div class="text">Bell's NSS offers personalized care plans across Victoria — tailored nursing and support that adapts to each person's needs, promoting dignity and independence...</div>
+                                <div class="btmm text-center"> <a href="blog-personalized-care.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image overlay-anim"><img src="images/blogs/blog7.jpg" alt /></figure>
+                            </div>
+                            <div class="content-box">
+                                <h4 class="title"><a href="blog-enabling-independence.php">Enabling Independence through Support</a></h4>
+                                <div class="text">Supporting independent living with skilled nursing, community participation and specialist accommodation to help clients thrive in Victoria...</div>
+                                <div class="btmm text-center"> <a href="blog-enabling-independence.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                            </div>
+                        </div>
+                    </div>
 
                     <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="400ms">
                         <div class="inner-box">
