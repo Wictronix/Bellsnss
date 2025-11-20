@@ -82,6 +82,7 @@
  -->
 
 
+ 
                 <div class="row ">
 
                     <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
@@ -184,6 +185,58 @@
                                 <h4 class="title"><a href="blog-mental-health.php">Addressing Mental Health in Specially-Abled Patients</a></h4>
                                 <div class="text">Understanding and addressing the unique mental health challenges faced by specially-abled individuals through evidence-based nursing strategies...</div>
                                 <div class="btmm text-center"> <a href="blog-mental-health.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image overlay-anim"><img src="images/blogs/blog9.jpg" alt="Compassionate disability support services" /></figure>
+                            </div>
+                            <div class="content-box">
+                                <h4 class="title"><a href="blog-disability-support.php">Empowering Disability Support with Compassion</a></h4>
+                                <div class="text">Discover how Bell's Specialised Nursing & Support Services empowers individuals with disabilities through compassionate, person-centred care as a trusted NDIS provider...</div>
+                                <div class="btmm text-center"> <a href="blog-disability-support.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="400ms">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image overlay-anim"><img src="images/blogs/blog10.jpg" alt="Quality nursing services for independent living" /></figure>
+                            </div>
+                            <div class="content-box">
+                                <h4 class="title"><a href="blog-quality-nursing.php">Quality Nursing for Independent Living</a></h4>
+                                <div class="text">Discover quality nursing services that empower independent living through compassionate, person-centred care and comprehensive support tailored to your needs...</div>
+                                <div class="btmm text-center"> <a href="blog-quality-nursing.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image overlay-anim"><img src="images/blogs/blog11.jpg" alt="Compassionate nursing care services" /></figure>
+                            </div>
+                            <div class="content-box">
+                                <h4 class="title"><a href="blog-compassionate-nursing.php">Compassionate Nursing Care You Can Rely On</a></h4>
+                                <div class="text">Discover compassionate, reliable nursing care services with community nursing, emergency response, and holistic health monitoring that you can trust...</div>
+                                <div class="btmm text-center"> <a href="blog-compassionate-nursing.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="400ms">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <figure class="image overlay-anim"><img src="images/blogs/blog12.jpg" alt="Community engagement and social inclusion activities" /></figure>
+                            </div>
+                            <div class="content-box">
+                                <h4 class="title"><a href="blog-community-engagement.php">Community Engagement and Social Inclusion</a></h4>
+                                <div class="text">Explore how social connection and community participation enhance mental health, build confidence, and foster meaningful relationships for all...</div>
+                                <div class="btmm text-center"> <a href="blog-community-engagement.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
                             </div>
                         </div>
                     </div>
