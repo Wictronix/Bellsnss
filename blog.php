@@ -87,7 +87,7 @@
                     <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image overlay-anim"><img src="images/blogs/blog8.jpg" alt /></figure>
+                                <figure class="image overlay-anim"><img src="images/blogs/blog8.jpg" alt="Nurse reviewing a personalised care plan with a client" /></figure>
                             </div>
                             <div class="content-box">
                                 <h4 class="title"><a href="blog-personalized-care.php">Personalized Care for Every Individual</a></h4>
@@ -100,7 +100,7 @@
                     <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image overlay-anim"><img src="images/blogs/blog7.jpg" alt /></figure>
+                                <figure class="image overlay-anim"><img src="images/blogs/blog7.jpg" alt="Support worker assisting a client with daily living activities" /></figure>
                             </div>
                             <div class="content-box">
                                 <h4 class="title"><a href="blog-enabling-independence.php">Enabling Independence through Support</a></h4>
@@ -113,7 +113,7 @@
                     <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="400ms">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image overlay-anim"><img src="images/blogs/blog5.jpg" alt /></figure>
+                                <figure class="image overlay-anim"><img src="images/blogs/blog5.jpg" alt="People participating in an inclusive community care activity" /></figure>
                             </div>
                             <div class="content-box">
                                 <h4 class="title"><a href="blog-heart-of-inclusive-community-care.php">The Heart of Inclusive Community Care</a></h4>
@@ -126,7 +126,7 @@
                     <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="400ms">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image overlay-anim"><img src="images/blogs/blog6.jpg" alt /></figure>
+                                <figure class="image overlay-anim"><img src="images/blogs/blog6.jpg" alt="Bell's NSS care team providing compassionate support" /></figure>
                             </div>
                             <div class="content-box">
                                 <h4 class="title"><a href="blog-why-bells-nss-trusted-choice.php">Why Bell’s NSS is the Trusted Choice</a></h4>
@@ -139,7 +139,7 @@
                     <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image overlay-anim"><img src="images/blogs/blog1.jpg" alt /></figure>
+                                <figure class="image overlay-anim"><img src="images/blogs/blog1.jpg" alt="Nurse empowering a specially-abled patient during care" /></figure>
                             </div>
                             <div class="content-box">
                                 <h4 class="title"><a href="blog-unsung-heroes.php">The Unsung Heroes: How Nurses Empower Specially-Abled Patients</a></h4>
@@ -152,7 +152,7 @@
                     <div class="service-block col-lg-4 col-sm-6 wow fadeInUp">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image overlay-anim"><img src="images/blogs/blog2.jpg" alt /></figure>
+                                <figure class="image overlay-anim"><img src="images/blogs/blog2.jpg" alt="Home-based nursing care visit with client and family" /></figure>
                             </div>
                             <div class="content-box">
                                 <h4 class="title"><a href="blog-home-based-care.php">The Nurse's Guide to Home-Based Care for Specially-Abled Patients</a></h4>
@@ -165,7 +165,7 @@
                     <div class="service-block col-lg-4 col-sm-6 wow fadeInUp">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image overlay-anim"><img src="images/blogs/blog3.jpg" alt /></figure>
+                                <figure class="image overlay-anim"><img src="images/blogs/blog3.jpg" alt="Wearable health technology used in modern nursing care" /></figure>
                             </div>
                             <div class="content-box">
                                 <h4 class="title"><a href="blog-innovations-nursing.php">Innovations in Nursing Care for Specially-Abled Individuals</a></h4>
@@ -178,7 +178,7 @@
                     <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="400ms">
                         <div class="inner-box">
                             <div class="image-box">
-                                <figure class="image overlay-anim"><img src="images/blogs/blog4.jpg" alt /></figure>
+                                <figure class="image overlay-anim"><img src="images/blogs/blog4.jpg" alt="Counselling session focusing on mental health for specially-abled individuals" /></figure>
                             </div>
                             <div class="content-box">
                                 <h4 class="title"><a href="blog-mental-health.php">Addressing Mental Health in Specially-Abled Patients</a></h4>

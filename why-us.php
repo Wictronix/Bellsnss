@@ -116,7 +116,7 @@
            <div class="image-column col-lg-6 wow fadeInRight">
                 <div class="inner-column">
                     <div class="image-box jkllll mr-409">
-                        <a href="#/"><img src="images/vision-and-mission1.jpg" alt /> </a>
+                        <a href="#/"><img src="images/vision-and-mission1.jpg" alt=" /> </a>
                     </div>
                 </div>
             </div>

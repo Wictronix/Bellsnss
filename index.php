@@ -49,93 +49,6 @@
 
 
 
-    <!--   <section class="banner-section">
-                <div class="banner-slider">
-                    <div class="banner-slide overlayy">
-                        <img src="images/banner-1.jpg" alt />
-                        <div class="outer-box">
-                            <div class="auto-container">
-                                <div class="content-box">
-                                        <span class="sub-title" data-animation-in="fadeInLeft" data-delay-in="0.1">Welcome to Indoital </span>
-                                    <h1 data-animation-in="fadeInLeft" data-delay-in="0.2">Bringing World-Class Products to    <span class="borderrr">Your</span>  Doorstep </h1>
-                                    <p data-animation-in="fadeInLeft" data-delay-in="0.2">Indoital is anItalian company specialized in  the wholesale, import, export and distribution of products. </p>
-                                    <a href="about-company.php" data-animation-in="fadeInUp" data-delay-in="0.4" class="theme-btn">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-                    <div class="banner-slide overlayy">
-                        <img src="images/banner-2.jpg" alt />
-                        <div class="outer-box">
-                            <div class="auto-container">
-                                <div class="content-box">
-                                        <span class="sub-title" data-animation-in="fadeInLeft" data-delay-in="0.1">Elevating Businesses on the Global Stage</span>
-                                    <h1 data-animation-in="fadeInLeft" data-delay-in="0.2"> Your Gateway to Global   <span class="borderrr">Trade</span>   Opportunities</h1>
-                                    <p data-animation-in="fadeInLeft" data-delay-in="0.2">Explore limitless global trade prospects through our gateway to endless opportunities and international connections.</p>
-                                    <a href="about-company.php" data-animation-in="fadeInUp" data-delay-in="0.4" class="theme-btn">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-                      <div class="banner-slide overlayy">
-                        <img src="images/banner-3.jpg" alt />
-                        <div class="outer-box">
-                            <div class="auto-container">
-                                <div class="content-box">
-                                        <span class="sub-title" data-animation-in="fadeInLeft" data-delay-in="0.1">Connecting Markets, Delivering Excellence</span>
-                                    <h1 data-animation-in="fadeInLeft" data-delay-in="0.2"> Connecting Markets,   <span class="borderrr">Delivering</span>  Excellence</h1>
-                                    <p data-animation-in="fadeInLeft" data-delay-in="0.2">Linking Markets, Delivering Excellence Where Global Connections Meet Unrivaled Quality.
-
-
-
-
-
-</p>
-                                    <a href="about-company.php" data-animation-in="fadeInUp" data-delay-in="0.4" class="theme-btn">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-                      <div class="banner-slide overlayy">
-                        <img src="images/banner-4.jpg" alt />
-                        <div class="outer-box">
-                            <div class="auto-container">
-                                <div class="content-box">
-                                        <span class="sub-title" data-animation-in="fadeInLeft" data-delay-in="0.1">Where Quality Meets Global Reach</span>
-                                    <h1 data-animation-in="fadeInLeft" data-delay-in="0.2"> Seamless Importing and    <span class="borderrr">Exporting</span> Solutions</h1>
-                                    <p data-animation-in="fadeInLeft" data-delay-in="0.2">Seamless Importing and Exporting Where Efficiency Meets Global Trade Solutions.</p>
-                                    <a href="#" data-animation-in="fadeInUp" data-delay-in="0.4" class="theme-btn">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                      <div class="banner-slide overlayy">
-                        <img src="images/banner-5.jpg" alt />
-                        <div class="outer-box">
-                            <div class="auto-container">
-                                <div class="content-box">
-                                        <span class="sub-title" data-animation-in="fadeInLeft" data-delay-in="0.1">Innovative Solutions for Global Business Expansion</span>
-                                    <h1 data-animation-in="fadeInLeft" data-delay-in="0.2">Empowering Businesses to   <span class="borderrr">Expand</span>  Globally</h1>
-                                    <p data-animation-in="fadeInLeft" data-delay-in="0.2">"Empowering Businesses: Expanding Globally, Seizing International Opportunities.</p>
-                                    <a href="about-company.php" data-animation-in="fadeInUp" data-delay-in="0.4" class="theme-btn">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-
-
-                </div>
-            </section> -->
 
     <section class="about-section">
       <div class="auto-container">
@@ -144,7 +57,7 @@
             <div class="inner-column">
               <div class="image-box">
                 <figure class="image overlay-anim jkl1">
-                  <a href="#"><img src="images/aboutt--1.jpg" alt /></a>
+                  <a href="#"><img src="images/aboutt--1.jpg" alt="Bell's NSS nurse providing in‑home support to a client" /></a>
                 </figure>
 
 
@@ -161,10 +74,6 @@
                   Empowering individuals with dignity and respect through expert care. BELL'S NSS is here to help people with disabilities.
                 </p>
               </div>
-              <!-- <ul class="about-list">
-                                    <li><i class="fa-solid fa-check"></i>Driving Success through International Connections</li>
-                                    <li><i class="fa-solid fa-check"></i>Innovative Solutions for Global Commerce</li>
-                                </ul> -->
               <div class="btn-box d-sm-flex align-items-center justify-content-start">
                 <a href="contact-us.php" class="theme-btn">Contact Us</a>
               </div>
@@ -245,7 +154,7 @@
           <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
             <div class="inner-box">
               <div class="image-box">
-                <figure class="image overlay-anim jklll"><img src="images/ser-1.jpg" alt /></figure>
+                <figure class="image overlay-anim jklll"><img src="images/ser-1.jpg" alt="Community nurse providing clinical care in a home setting"> /></figure>
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="#">Community Nursing Care</a></h4>
@@ -261,7 +170,7 @@
           <div class="service-block col-lg-4 col-sm-6 wow fadeInUp">
             <div class="inner-box">
               <div class="image-box">
-                <figure class="image overlay-anim jklll"><img src="images/ser-2.jpg" alt /></figure>
+                <figure class="image overlay-anim jklll"><img src="images/ser-2.jpg" alt="Support worker assisting a client with daily personal care" /></figure>
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="#">Daily personal care</a></h4>
@@ -278,7 +187,7 @@
           <div class="service-block col-lg-4 col-sm-6 wow fadeInUp">
             <div class="inner-box">
               <div class="image-box">
-                <figure class="image overlay-anim jklll"><img src="images/ser-3.jpg" alt /></figure>
+                <figure class="image overlay-anim jklll"><img src="images/ser-3.jpg" alt="Support staff helping a client with travel and transport" /></figure>
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="#">Assistance with travel </a></h4>
@@ -299,7 +208,7 @@
           <div class="service-block col-lg-4 col-sm-6 wow fadeInUp">
             <div class="inner-box">
               <div class="image-box">
-                <figure class="image overlay-anim jklll"><img src="images/ser-4.jpg" alt /></figure>
+                <figure class="image overlay-anim jklll"><img src="images/ser-4.jpg" alt="Support worker performing household tasks and meal preparation" /></figure>
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="#"> Household tasks</a></h4>
@@ -314,7 +223,7 @@
           <div class="service-block col-lg-4 col-sm-6 wow fadeInUp">
             <div class="inner-box">
               <div class="image-box">
-                <figure class="image overlay-anim jklll"><img src="images/ser-5.jpg" alt /></figure>
+                <figure class="image overlay-anim jklll"><img src="images/ser-5.jpg" alt="Participants enjoying a community social activity" /></figure>
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="#">Participate in social activities</a></h4>
@@ -485,7 +394,7 @@
           <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
             <div class="inner-box">
               <div class="image-box">
-                <figure class="image overlay-anim"><img src="images/blogs/blog1.jpg" alt /></figure>
+                <figure class="image overlay-anim"><img src="images/blogs/blog1.jpg" alt="Nurse empowering a specially‑abled patient during care" /></figure>
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="blog-unsung-heroes.php">The Unsung Heroes: How Nurses Empower Specially-Abled Patients in NDIS</a></h4>
@@ -498,7 +407,7 @@
           <div class="service-block col-lg-4 col-sm-6 wow fadeInUp">
             <div class="inner-box">
               <div class="image-box">
-                <figure class="image overlay-anim"><img src="images/blogs/blog2.jpg" alt /></figure>
+                <figure class="image overlay-anim"><img src="images/blogs/blog2.jpg" alt="Home‑based nursing visit with client and family" /></figure>
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="blog-home-based-care.php">The Nurse's Guide to Home-Based Care for Specially-Abled Patients</a></h4>
@@ -511,7 +420,7 @@
           <div class="service-block col-lg-4 col-sm-6 wow fadeInUp">
             <div class="inner-box">
               <div class="image-box">
-                <figure class="image overlay-anim"><img src="images/blogs/blog3.jpg" alt /></figure>
+                <figure class="image overlay-anim"><img src="images/blogs/blog3.jpg" alt="Wearable health technology used in modern nursing care" /></figure>
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="blog-innovations-nursing.php">Innovations in Nursing Care for Specially-Abled Individuals</a></h4>
@@ -524,7 +433,7 @@
           <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="400ms">
             <div class="inner-box">
               <div class="image-box">
-                <figure class="image overlay-anim"><img src="images/blogs/blog4.jpg" alt /></figure>
+                <figure class="image overlay-anim"><img src="images/blogs/blog4.jpg" alt="Counselling session focused on mental health support" /></figure>
               </div>
               <div class="content-box">
                 <h4 class="title"><a href="blog-mental-health.php">Addressing Mental Health in Specially-Abled Patients</a></h4>

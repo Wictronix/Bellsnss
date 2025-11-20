@@ -33,14 +33,45 @@
   <priority>0.80</priority>
 </url>
 
+<!--Blogs-->
+<url>
+  <loc>https://www.bellsnss.com.au/blog-unsung-heroes.php</loc>
+  <lastmod>2025-11-20T04:35:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.bellsnss.com.au/blog-home-based-care.php</loc>
+  <lastmod>2025-11-20T04:35:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.bellsnss.com.au/blog-innovations-nursing.php</loc>
+  <lastmod>2025-11-20T04:35:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.bellsnss.com.au/blog-mental-health.php</loc>
+  <lastmod>2025-11-20T04:35:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 <url>
   <loc>https://www.bellsnss.com.au/blog-personalized-care.php</loc>
-  <lastmod>2025-11-08T12:00:00+00:00</lastmod>
+  <lastmod>2025-11-20T04:35:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.bellsnss.com.au/blog-enabling-independence.php</loc>
-  <lastmod>2025-11-08T12:00:00+00:00</lastmod>
+  <lastmod>2025-11-20T04:35:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.bellsnss.com.au/blog-heart-of-inclusive-community-care.php</loc>
+  <lastmod>2025-11-20T04:35:28+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.bellsnss.com.au/blog-why-bells-nss-trusted-choice.php</loc>
+  <lastmod>2025-11-20T04:35:28+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 

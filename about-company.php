@@ -113,7 +113,7 @@
                <div class="image-column col-lg-6 wow fadeInLeft">
                 <div class="inner-column">
                     <div class="image-box mr-409">
-                       <a href="#/"><img src="images/abouttt.jpg" alt /> </a>
+                       <a href="#/"><img src="images/abouttt.jpg" alt="NDIS Official Partner Image /> </a>
                     </div>
                 </div>
             </div> 
