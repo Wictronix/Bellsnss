@@ -80,15 +80,10 @@
     </nav>
 </header>
 
-<!-- Mobile Contact Quick Actions -->
-<div class="d-lg-none fixed-bottom bg-white border-top py-2 d-flex justify-content-around">
-    <a href="https://api.whatsapp.com/send?phone=+61430147281">
-        <img src="images/whatsapp.png" alt="WhatsApp" style="height:32px;">
-    </a>
-    <a href="tel:+61430147281">
-        <img src="images/call.png" alt="Call" style="height:32px;">
-    </a>
-</div>
+<!-- Floating WhatsApp Button -->
+<a href="https://api.whatsapp.com/send?phone=+61430147281" class="whatsapp-float" target="_blank">
+    <img src="images/whatsapp.png" alt="WhatsApp">
+</a>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HK5LK2BNRK"></script>
