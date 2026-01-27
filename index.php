@@ -75,7 +75,7 @@
                 </p>
               </div>
               <div class="btn-box d-sm-flex align-items-center justify-content-start">
-                <a href="contact-us.php" class="theme-btn">Contact Us</a>
+                <a href="tel:+61430147281" class="theme-btn">Call Now</a>
               </div>
             </div>
           </div>

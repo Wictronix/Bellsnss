@@ -16076,3 +16076,73 @@ p.ttt {
         font-size: 44px !important;
         margin-bottom: 10px !important;
     }
+/* Custom Floating WhatsApp Button */
+.whatsapp-float {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 20px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow: 2px 2px 3px #999;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.whatsapp-float:hover {
+    transform: scale(1.1);
+    background-color: #128c7e;
+}
+
+.whatsapp-float img {
+    width: 35px;
+    height: 35px;
+}
+
+/* Responsive adjustments for Hero Section */
+@media (max-width: 767px) {
+    h2.title.jkl {
+        font-size: 28px !important;
+        line-height: 1.3 !important;
+    }
+    figure.image.overlay-anim.jkl1 img {
+        max-width: 70% !important;
+        margin: 0 auto !important;
+        display: block !important;
+        height: auto !important;
+    }
+    .about-section {
+        padding: 40px 0 30px !important;
+    }
+    .about-section .image-column .inner-column {
+        margin-bottom: 25px !important;
+    }
+}
+
+/* Further refinements for mobile hero visibility */
+@media (max-width: 575px) {
+    h2.title.jkl {
+        font-size: 24px !important;
+        margin-bottom: 5px !important;
+    }
+    .about-section .content-column .inner-column .text p {
+        font-size: 14px !important;
+        line-height: 1.4 !important;
+        margin-bottom: 10px !important;
+    }
+    figure.image.overlay-anim.jkl1 img {
+        max-width: 60% !important;
+    }
+    .about-section {
+        padding: 20px 0 20px !important;
+    }
+    .about-section .image-column .inner-column {
+        margin-bottom: 15px !important;
+    }
+}
