@@ -82,7 +82,7 @@
 
                                 <h3>Promoting Social Connection</h3>
 
-                                <p>Isolation can be one of the most challenging aspects of living with a disability. Social connection is not a luxury—it's a fundamental human need that directly impacts mental health, emotional wellbeing, and quality of life. At Bell's NSS, we recognize that meaningful social participation is as important as medical care.</p>
+                                <p>Isolation can be one of the most challenging aspects of living with a disability. Social connection is not a luxury it's a fundamental human need that directly impacts mental health, emotional wellbeing, and quality of life. At Bell's NSS, we recognize that meaningful social participation is as important as medical care.</p>
 
                                 <div class="social-importance-section">
                                     <h4>Why Social Connection Matters:</h4>
@@ -142,7 +142,7 @@
                                             </div>
                                             <div class="program-content">
                                                 <h5>Group Activities & Workshops</h5>
-                                                <p>Regular gatherings focused on shared interests—from arts and crafts to skill-building workshops—that bring people together and foster friendships.</p>
+                                                <p>Regular gatherings focused on shared interests from arts and crafts to skill-building workshops that bring people together and foster friendships.</p>
                                             </div>
                                         </div>
 
@@ -182,7 +182,7 @@
                                             </div>
                                             <div class="program-content">
                                                 <h5>Interest-Based Clubs & Hobbies</h5>
-                                                <p>Supporting participation in hobbies and interest groups—from sports and music to book clubs and gaming—that reflect personal passions.</p>
+                                                <p>Supporting participation in hobbies and interest groups from sports and music to book clubs and gaming that reflect personal passions.</p>
                                             </div>
                                         </div>
 
@@ -276,13 +276,13 @@
 
                                 <div class="conclusion-community-section">
                                     <h3>Together We Thrive</h3>
-                                    <p>Fostering social networks and community involvement, Bell's NSS enhances lives beyond traditional care, empowering clients to thrive in all aspects of life. Social inclusion isn't an add-on to care—it's fundamental to wellbeing and empowerment.</p>
+                                    <p>Fostering social networks and community involvement, Bell's NSS enhances lives beyond traditional care, empowering clients to thrive in all aspects of life. Social inclusion isn't an add-on to care it's fundamental to wellbeing and empowerment.</p>
 
                                     <p>When people with disabilities have meaningful opportunities to connect, contribute, and participate in their communities, remarkable transformations occur. Confidence grows, hope deepens, and life becomes richer and more fulfilling.</p>
 
                                     <blockquote class="community-quote">
                                         <p>"Community is not just a place; it's a feeling of belonging, connection, and the knowledge that you matter. That's what we're building together."</p>
-                                        <footer>— Bell's Specialised Nursing & Support Services</footer>
+                                        <footer>  Bell's Specialised Nursing & Support Services</footer>
                                     </blockquote>
                                 </div>
 

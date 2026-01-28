@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <title>The Heart of Inclusive Community Care - BELL'S SPECIALISED NURSING & SUPPORT SERVICE</title>
-    <meta name="description" content="Bell's NSS champions person-centered, inclusive community care across Victoria — personal activities, community nursing, specialist accommodation and more to empower clients and families." />
+    <meta name="description" content="Bell's NSS champions person-centered, inclusive community care across Victoria   personal activities, community nursing, specialist accommodation and more to empower clients and families." />
     <meta name="keywords" content="inclusive care, community care, disability support, Bell's NSS, NDIS, Victoria" />
     <meta name="robots" content="all" />
     <link rel="canonical" href="https://www.bellsnss.com.au/blog-heart-of-inclusive-community-care.php" />
@@ -61,17 +61,17 @@
                             </div>
 
                             <div class="blog-content">
-                                <p class="lead">A New Era in Disability Support — Finding the right support service is easier with leaders like Bell’s Specialised Nursing and Support Services. They champion person-centered care for all ages and abilities, setting new standards in Victoria.</p>
+                                <p class="lead">A New Era in Disability Support   Finding the right support service is easier with leaders like Bell’s Specialised Nursing and Support Services. They champion person-centered care for all ages and abilities, setting new standards in Victoria.</p>
 
                                 <h3>Comprehensive Services</h3>
                                 <p>Their team assists with personal activities, daily living tasks, and community nursing care, making everyday life smoother for clients and families. Specialist disability accommodation and support coordination ensure no client is left behind. They also provide travel support and life stage transition assistance, enabling clients to stay connected and empowered.</p>
 
                                 <h3>Creating Belonging</h3>
-                                <p>More than just care—Bell’s NSS brings people together through community-focused programs, building friendships and confidence. Their group activities and household support empower independence while relieving family stress. Their commitment to emergency access and medication management adds a safety net for clients and peace of mind for families.</p>
+                                <p>More than just care Bell’s NSS brings people together through community-focused programs, building friendships and confidence. Their group activities and household support empower independence while relieving family stress. Their commitment to emergency access and medication management adds a safety net for clients and peace of mind for families.</p>
 
                                 <div class="conclusion-section">
                                     <h3>Empowerment Every Day</h3>
-                                    <p>Bell’s NSS is more than a provider—it’s a trusted ally helping families and individuals live fully and confidently. When care combines compassion and expertise, communities thrive, making every individual’s potential the center of support.</p>
+                                    <p>Bell’s NSS is more than a provider it’s a trusted ally helping families and individuals live fully and confidently. When care combines compassion and expertise, communities thrive, making every individual’s potential the center of support.</p>
                                 </div>
 
                                 <div class="blog-tags">

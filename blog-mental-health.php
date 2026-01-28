@@ -291,7 +291,7 @@
 
                                     <blockquote class="mental-health-quote">
                                         <p>"Mental health is not a destination, but a process. It's about how you drive, not where you're going."</p>
-                                        <footer>— Noam Shpancer, Clinical Psychologist</footer>
+                                        <footer>  Noam Shpancer, Clinical Psychologist</footer>
                                     </blockquote>
                                 </div>
 

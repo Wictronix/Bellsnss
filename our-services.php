@@ -214,7 +214,7 @@
     <h3 class="modal-title">Daily Personal Care</h3>
     <div class="modal-body">
       <p><strong>Maintaining Your Dignity and Independence Every Day</strong></p>
-      <p>Personal care is about more than just assistance—it's about starting each day with confidence and dignity. We help with the essential daily tasks you find challenging, so you can focus on living your life the way you want to.</p>
+      <p>Personal care is about more than just assistance it's about starting each day with confidence and dignity. We help with the essential daily tasks you find challenging, so you can focus on living your life the way you want to.</p>
       <p>Our support workers assist with showering, bathing, toileting, grooming, and dressing. We provide safe mobility support using proper transfer techniques, help with meals if you have swallowing difficulties, and offer medication reminders to keep you on track with your health routine. We carefully match you with support workers who respect your privacy, understand your preferences, and make you feel comfortable in your own home.</p>
       <p>You deserve care that honors your independence while providing the support you need.</p>
       <div class="text-center">

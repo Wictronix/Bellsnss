@@ -61,7 +61,7 @@
                             </div>
 
                             <div class="blog-content">
-                                <p class="lead">The Search for Reliable Care — Every family deserves peace of mind. Bell’s Specialised Nursing and Support Services delivers just that—with personalized plans for each client in Victoria.</p>
+                                <p class="lead">The Search for Reliable Care   Every family deserves peace of mind. Bell’s Specialised Nursing and Support Services delivers just that with personalized plans for each client in Victoria.</p>
 
                                 <h3>Expert Team, Holistic Solutions</h3>
                                 <p>Led by dedicated nursing professionals, Bell’s NSS covers high-intensity care, specialist accommodation, and everyday assistance. Their travel and transport help, plus support for life transitions, give clients stability and mobility. Their experienced staff ensures safety protocols and personalized care adapt to changing client needs.</p>
@@ -71,7 +71,7 @@
 
                                 <div class="conclusion-section">
                                     <h3>Your Partner in Care</h3>
-                                    <p>Choose Bell’s NSS for peace, support, and a brighter future—so every client and family knows they’re valued, every day. A genuine partnership focused on compassionate, expert care makes all the difference.</p>
+                                    <p>Choose Bell’s NSS for peace, support, and a brighter future so every client and family knows they’re valued, every day. A genuine partnership focused on compassionate, expert care makes all the difference.</p>
                                 </div>
 
                                 <div class="blog-tags">

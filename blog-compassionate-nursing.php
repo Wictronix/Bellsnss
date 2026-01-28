@@ -82,7 +82,7 @@
 
                                 <h3>The Role of Compassion in Nursing</h3>
 
-                                <p>True nursing care extends beyond clinical skills—it encompasses understanding, empathy, and genuine concern for each client's wellbeing. At Bell's NSS, our nurses combine medical expertise with heartfelt compassion to create a care experience that respects dignity and promotes healing.</p>
+                                <p>True nursing care extends beyond clinical skills it encompasses understanding, empathy, and genuine concern for each client's wellbeing. At Bell's NSS, our nurses combine medical expertise with heartfelt compassion to create a care experience that respects dignity and promotes healing.</p>
 
                                 <div class="compassion-intro-section">
                                     <p>Our commitment to compassionate care means:</p>
@@ -206,7 +206,7 @@
                                                 <i class="fa fa-heart"></i>
                                                 <h5>Holistic Approach</h5>
                                             </div>
-                                            <p>Care that addresses physical health, emotional wellbeing, and quality of life—not just medical needs.</p>
+                                            <p>Care that addresses physical health, emotional wellbeing, and quality of life not just medical needs.</p>
                                         </div>
 
                                         <div class="trust-item">
@@ -239,11 +239,11 @@
                                     <h3>Compassionate Care Builds Trust</h3>
                                     <p>With Bell's NSS, clients experience care rooted in respect and understanding, which creates lasting bonds between caregivers and families. This trust is the foundation of improved quality of life, better health outcomes, and genuine wellbeing.</p>
 
-                                    <p>Our nurses don't just provide medical care—they provide hope, dignity, and the assurance that someone truly cares. When compassion meets professional expertise, healing happens.</p>
+                                    <p>Our nurses don't just provide medical care they provide hope, dignity, and the assurance that someone truly cares. When compassion meets professional expertise, healing happens.</p>
 
                                     <blockquote class="compassion-quote">
                                         <p>"Compassion is not just a nice feeling. It's the foundation of exceptional care that changes lives and builds lasting trust."</p>
-                                        <footer>— Bell's Specialised Nursing & Support Services</footer>
+                                        <footer>  Bell's Specialised Nursing & Support Services</footer>
                                     </blockquote>
                                 </div>
 

@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <title>Personalized Care for Every Individual - BELL'S SPECIALISED NURSING & SUPPORT SERVICE</title>
-    <meta name="description" content="Bell's NSS in Victoria provides personalised care plans that meet each individual's unique needs — nursing, daily assistance, support coordination and compassionate care." />
+    <meta name="description" content="Bell's NSS in Victoria provides personalised care plans that meet each individual's unique needs   nursing, daily assistance, support coordination and compassionate care." />
     <meta name="keywords" content="personalized care, NDIS provider, Victoria, compassionate care, Bell's NSS" />
     <meta name="robots" content="all" />
     <link rel="canonical" href="https://www.bellsnss.com.au/blog-personalized-care.php" />
@@ -61,7 +61,7 @@
                             </div>
 
                             <div class="blog-content">
-                                <p class="lead">The Importance of Tailored Support — In Victoria, Bell’s Specialised Nursing and Support Services offers personalised care that meets each individual’s unique needs.</p>
+                                <p class="lead">The Importance of Tailored Support   In Victoria, Bell’s Specialised Nursing and Support Services offers personalised care that meets each individual’s unique needs.</p>
 
                                 <h3>Tailored Services Offered</h3>
                                 <p>From personal assistance with daily tasks to community nursing and specialist disability accommodation, Bell’s NSS creates flexible support solutions. Their nursing professionals work closely with families to enhance comfort and independence. They also provide travel support and life-stage transition assistance to ensure seamless, ongoing care.</p>

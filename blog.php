@@ -86,13 +86,143 @@
                 <div class="row ">
 
                     <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog1.jpg" alt="NDIS community nursing for complex needs" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-community-nursing-complex-needs.php">NDIS Community Nursing for Complex Needs</a></h4>
+                                 <div class="text">A complete guide to NDIS community nursing for complex needs...</div>
+                                 <div class="btmm text-center"> <a href="blog-community-nursing-complex-needs.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog2.jpg" alt="What does NDIS community nursing cover" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-what-ndis-nursing-covers.php">What Does NDIS Community Nursing Cover?</a></h4>
+                                 <div class="text">Learn what NDIS community nursing covers, including clinical care and complex needs...</div>
+                                 <div class="btmm text-center"> <a href="blog-what-ndis-nursing-covers.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog3.jpg" alt="Daily living support for adults" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-daily-living-support-adults.php">Daily Living Support for Adults with Disability</a></h4>
+                                 <div class="text">Discover how daily living support enables independence for adults with disabilities...</div>
+                                 <div class="btmm text-center"> <a href="blog-daily-living-support-adults.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog4.jpg" alt="NDIS travel assistance" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-ndis-travel-assistance.php">NDIS Travel Assistance for Social Activities</a></h4>
+                                 <div class="text">Learn how NDIS travel assistance helps you stay connected to social activities...</div>
+                                 <div class="btmm text-center"> <a href="blog-ndis-travel-assistance.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog5.jpg" alt="Daily living support for elderly" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-daily-living-support-elderly.php">Daily Living Support for Elderly Parents on NDIS</a></h4>
+                                 <div class="text">Find out what daily living support is available for elderly parents on NDIS...</div>
+                                 <div class="btmm text-center"> <a href="blog-daily-living-support-elderly.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog9.jpg" alt="Disability support services in Melbourne" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-disability-support-melbourne.php">Disability Support Services in Melbourne</a></h4>
+                                 <div class="text">Discovering the right disability support services in Melbourne can be challenging...</div>
+                                 <div class="btmm text-center"> <a href="blog-disability-support-melbourne.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog10.jpg" alt="Culturally sensitive disability support" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-culturally-sensitive-ndis.php">Why You Need a Culturally Sensitive NDIS Provider</a></h4>
+                                 <div class="text">Discover the importance of culturally sensitive NDIS support in Melbourne...</div>
+                                 <div class="btmm text-center"> <a href="blog-culturally-sensitive-ndis.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog11.jpg" alt="Home care services in Melbourne" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-home-care-options.php">Home Care Services: Understanding Your Options</a></h4>
+                                 <div class="text">Explore home care services in Melbourne available through NDIS...</div>
+                                 <div class="btmm text-center"> <a href="blog-home-care-options.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog12.jpg" alt="High intensity disability support" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-high-intensity-support.php">In-Home Disability Support: High-Intensity Activities</a></h4>
+                                 <div class="text">Learn about high-intensity daily personal activities and specialized in-home support...</div>
+                                 <div class="btmm text-center"> <a href="blog-high-intensity-support.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog5.jpg" alt="Registered vs Unregistered NDIS Providers" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-registered-vs-unregistered.php">Registered vs. Unregistered NDIS Providers</a></h4>
+                                 <div class="text">Understand the difference between registered and unregistered NDIS providers...</div>
+                                 <div class="btmm text-center"> <a href="blog-registered-vs-unregistered.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
                         <div class="inner-box">
                             <div class="image-box">
                                 <figure class="image overlay-anim"><img src="images/blogs/blog8.jpg" alt="Nurse reviewing a personalised care plan with a client" /></figure>
                             </div>
                             <div class="content-box">
                                 <h4 class="title"><a href="blog-personalized-care.php">Personalized Care for Every Individual</a></h4>
-                                <div class="text">Bell's NSS offers personalized care plans across Victoria — tailored nursing and support that adapts to each person's needs, promoting dignity and independence...</div>
+                                <div class="text">Bell's NSS offers personalized care plans across Victoria   tailored nursing and support that adapts to each person's needs, promoting dignity and independence...</div>
                                 <div class="btmm text-center"> <a href="blog-personalized-care.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
                             </div>
                         </div>
@@ -118,7 +248,7 @@
                             </div>
                             <div class="content-box">
                                 <h4 class="title"><a href="blog-heart-of-inclusive-community-care.php">The Heart of Inclusive Community Care</a></h4>
-                                <div class="text">Bell’s NSS champions person-centered care across Victoria — from daily living support to specialist accommodation and community programs that create belonging...</div>
+                                <div class="text">Bell’s NSS champions person-centered care across Victoria   from daily living support to specialist accommodation and community programs that create belonging...</div>
                                 <div class="btmm text-center"> <a href="blog-heart-of-inclusive-community-care.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
                             </div>
                         </div>

@@ -95,7 +95,7 @@
                                             </div>
                                             <div class="service-content-nursing">
                                                 <h5>Comprehensive Personal Support and Community Nursing</h5>
-                                                <p>Our skilled nursing team provides professional medical and personal care, including medication management, wound care, and mobility assistance — ensuring safety, comfort, and dignity at every step.</p>
+                                                <p>Our skilled nursing team provides professional medical and personal care, including medication management, wound care, and mobility assistance   ensuring safety, comfort, and dignity at every step.</p>
                                             </div>
                                         </div>
 
@@ -115,7 +115,7 @@
                                             </div>
                                             <div class="service-content-nursing">
                                                 <h5>Skill Development for Independent Living</h5>
-                                                <p>We focus on helping clients build essential life skills — from personal care routines to decision-making — fostering long-term independence and self-confidence.</p>
+                                                <p>We focus on helping clients build essential life skills   from personal care routines to decision-making   fostering long-term independence and self-confidence.</p>
                                             </div>
                                         </div>
 
@@ -135,7 +135,7 @@
                                             </div>
                                             <div class="service-content-nursing">
                                                 <h5>Holistic Wellbeing and Quality of Life</h5>
-                                                <p>Our approach extends beyond physical care — we also prioritise emotional and mental wellbeing, creating a balanced, nurturing environment where clients can thrive.</p>
+                                                <p>Our approach extends beyond physical care   we also prioritise emotional and mental wellbeing, creating a balanced, nurturing environment where clients can thrive.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -227,13 +227,13 @@
 
                                 <div class="conclusion-nursing-section">
                                     <h3>Making Independent Living a Reality</h3>
-                                    <p>With Bell's Specialised Nursing and Support Services, independence is not just a goal — it's a way of life. Our compassionate and reliable care empowers people with disabilities to live confidently, engage in their communities, and enjoy the dignity of choice and freedom every day.</p>
+                                    <p>With Bell's Specialised Nursing and Support Services, independence is not just a goal   it's a way of life. Our compassionate and reliable care empowers people with disabilities to live confidently, engage in their communities, and enjoy the dignity of choice and freedom every day.</p>
 
                                     <p>Together, we make independent living a reality. If you're ready to embrace a more independent lifestyle with professional support, reach out to Bell's NSS today.</p>
 
                                     <blockquote class="nursing-quote">
                                         <p>"Independence doesn't mean doing everything alone. It means having the support and confidence to make your own choices and live life on your terms."</p>
-                                        <footer>— Bell's Specialised Nursing & Support Services</footer>
+                                        <footer>  Bell's Specialised Nursing & Support Services</footer>
                                     </blockquote>
                                 </div>
 

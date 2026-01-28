@@ -78,7 +78,7 @@
                             </div>
 
                             <div class="blog-content">
-                                <p class="lead">At Bell's Specialised Nursing and Support Services, we believe that true care goes beyond assistance — it's about empowerment, dignity, and compassion. As a trusted Registered NDIS Provider, our mission is to enhance the quality of life for individuals living with disabilities by providing person-centred nursing and support services tailored to their unique needs.</p>
+                                <p class="lead">At Bell's Specialised Nursing and Support Services, we believe that true care goes beyond assistance   it's about empowerment, dignity, and compassion. As a trusted Registered NDIS Provider, our mission is to enhance the quality of life for individuals living with disabilities by providing person-centred nursing and support services tailored to their unique needs.</p>
 
                                 <p>Our team of dedicated professionals combines medical expertise with heartfelt compassion to create an environment where every individual feels valued, supported, and capable of achieving their personal goals.</p>
 
@@ -229,11 +229,11 @@
                                     <h3>Building a Brighter Future Together</h3>
                                     <p>Choosing Bell's Specialised Nursing and Support Services means choosing a partner who genuinely cares. Our compassionate approach, combined with professional expertise, ensures that every individual receives the support they need to live a safe, fulfilling, and independent life.</p>
 
-                                    <p>Together, we can build a community where care is not just provided but deeply felt — every single day. If you're ready to experience the difference that compassionate, person-centred disability support can make, we invite you to reach out to us today.</p>
+                                    <p>Together, we can build a community where care is not just provided but deeply felt   every single day. If you're ready to experience the difference that compassionate, person-centred disability support can make, we invite you to reach out to us today.</p>
 
                                     <blockquote class="empowerment-quote">
                                         <p>"Disability is a natural part of human diversity. With the right support and environment, people with disabilities can achieve their full potential and contribute meaningfully to society."</p>
-                                        <footer>— Inclusive Australia Initiative</footer>
+                                        <footer>  Inclusive Australia Initiative</footer>
                                     </blockquote>
                                 </div>
 

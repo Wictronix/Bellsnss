@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <title>Enabling Independence through Support - BELL'S SPECIALISED NURSING & SUPPORT SERVICE</title>
-    <meta name="description" content="Bell's NSS advocates independence for people with disabilities in Victoria — support services that maximise autonomy, community inclusion and specialist nursing." />
+    <meta name="description" content="Bell's NSS advocates independence for people with disabilities in Victoria   support services that maximise autonomy, community inclusion and specialist nursing." />
     <meta name="keywords" content="independent living, community care, disability support, Bell's NSS, NDIS, Victoria" />
     <meta name="robots" content="all" />
     <link rel="canonical" href="https://www.bellsnss.com.au/blog-enabling-independence.php" />
@@ -61,7 +61,7 @@
                             </div>
 
                             <div class="blog-content">
-                                <p class="lead">Supporting Independent Living — Bell’s Specialised Nursing and Support Services strongly advocates for independence among people with disabilities in Victoria.</p>
+                                <p class="lead">Supporting Independent Living   Bell’s Specialised Nursing and Support Services strongly advocates for independence among people with disabilities in Victoria.</p>
 
                                 <h3>Supporting Daily Life and Community Inclusion</h3>
                                 <p>Services range from household tasks to support coordination and community participation activities. These encourage clients to engage socially while maintaining control over their lifestyle. The inclusion of specialist accommodation supports clients with complex needs.</p>
