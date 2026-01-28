@@ -68,10 +68,10 @@
                     <a href="index.php" class="mr-3">
                         <img src="images/logo-2.png" alt="ndis" style="height:64px;">
                     </a>
-                    <a href="https://api.whatsapp.com/send?phone=+61430147281" class="mr-3">
+                    <a href="https://wa.me/61430147281" class="mr-3 d-none d-lg-block">
                         <img src="images/whatsapp.png" alt="WhatsApp" style="height:32px;">
                     </a>
-                    <a href="tel:+61430147281" class="mr-3">
+                    <a href="tel:+61430147281" class="mr-3 d-none d-lg-block">
                         <img src="images/call.png" alt="Call" style="height:32px;">
                     </a>
                 </div>
@@ -80,15 +80,10 @@
     </nav>
 </header>
 
-<!-- Mobile Contact Quick Actions -->
-<div class="d-lg-none fixed-bottom bg-white border-top py-2 d-flex justify-content-around">
-    <a href="https://api.whatsapp.com/send?phone=+61430147281">
-        <img src="images/whatsapp.png" alt="WhatsApp" style="height:32px;">
-    </a>
-    <a href="tel:+61430147281">
-        <img src="images/call.png" alt="Call" style="height:32px;">
-    </a>
-</div>
+<!-- Floating WhatsApp Button -->
+<a href="https://wa.me/61430147281" class="floating-whatsapp" target="_blank">
+    <i class="fab fa-whatsapp"></i>
+</a>
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HK5LK2BNRK"></script>

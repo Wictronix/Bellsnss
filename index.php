@@ -160,7 +160,7 @@
                 <h4 class="title"><a href="#">Community Nursing Care</a></h4>
                 <div class="text">For complex clinical needs, our multicultural, professional nursing team provides skilled NDIS community nursing.
                 </div>
-                <div class="btmm  text-center"> <a href="contact-us.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
+                <div class="btmm  text-center"> <a href="our-services.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
             </div>
           </div>
@@ -176,7 +176,7 @@
                 <h4 class="title"><a href="#">Daily personal care</a></h4>
                 <div class="text">Our respectful NDIS personal care services assist you in maintaining your independence and daily routine.
                 </div>
-                <div class="btmm  text-center"> <a href="contact-us.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
+                <div class="btmm  text-center"> <a href="our-services.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
             </div>
           </div>
@@ -193,7 +193,7 @@
                 <h4 class="title"><a href="#">Assistance with travel </a></h4>
                 <div class="text">Move safely with the reliable NDIS travel assistance. We encourage appointments, community access, and social activities.
                 </div>
-                <div class="btmm  text-center"> <a href="contact-us.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
+                <div class="btmm  text-center"> <a href="our-services.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
             </div>
           </div>
@@ -214,7 +214,7 @@
                 <h4 class="title"><a href="#"> Household tasks</a></h4>
                 <div class="text">To simplify life, we help with meal preparation, cleaning, and gardening in our NDIS household tasks assistance.
                 </div>
-                <div class="btmm  text-center"> <a href="contact-us.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
+                <div class="btmm  text-center"> <a href="our-services.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
             </div>
           </div>
@@ -229,7 +229,7 @@
                 <h4 class="title"><a href="#">Participate in social activities</a></h4>
                 <div class="text">We establish a welcoming atmosphere for social events.  Our team helps you connect with your community and learn new skills.
                 </div>
-                <div class="btmm  text-center"> <a href="contact-us.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
+                <div class="btmm  text-center"> <a href="our-services.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
             </div>
           </div>
@@ -499,6 +499,128 @@
 
       </div>
     </section> -->
+
+    <!-- FAQ Section -->
+    <!-- FAQ Section -->
+    <section class="faq-section">
+        <div class="auto-container">
+            <div class="sec-title-two text-center">
+                <h2>Frequently Asked <span class="h2-about">Questions</span></h2>
+            </div>
+            
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <style>
+                        /* Custom Accordion Styles - Directly embedded for priority */
+                        .custom-accordion-btn {
+                            background-color: #fff;
+                            color: #333;
+                            cursor: pointer;
+                            padding: 20px 25px;
+                            width: 100%;
+                            border: none;
+                            text-align: left;
+                            outline: none;
+                            font-size: 18px;
+                            font-weight: 600;
+                            transition: 0.4s;
+                            display: flex;
+                            justify-content: space-between;
+                            align-items: center;
+                            border-radius: 10px;
+                            margin-bottom: 15px;
+                            box-shadow: 0 2px 5px rgba(0,0,0,0.02);
+                            border: 1px solid rgba(0,0,0,0.05);
+                        }
+                        .custom-accordion-btn:hover, .custom-accordion-btn.active {
+                            background-color: #f2f6fc;
+                            color: #0b3a86;
+                        }
+                        .custom-accordion-btn:after {
+                            content: '\002B';
+                            color: #0b3a86;
+                            font-weight: bold;
+                            font-size: 24px;
+                            margin-left: 10px;
+                        }
+                        .custom-accordion-btn.active:after {
+                            content: '\2212';
+                        }
+                        .custom-panel {
+                            padding: 0 25px;
+                            background-color: white;
+                            max-height: 0;
+                            overflow: hidden;
+                            transition: max-height 0.2s ease-out;
+                            margin-bottom: 10px;
+                            border-radius: 0 0 10px 10px;
+                        }
+                        .custom-panel p {
+                            margin-bottom: 20px;
+                            color: #666;
+                            line-height: 1.6;
+                        }
+                    </style>
+
+                    <div class="custom-accordion">
+                        
+                        <!-- Q1 -->
+                        <button class="custom-accordion-btn">How do I start services with Bells Nursing and Support Services?</button>
+                        <div class="custom-panel">
+                            <p>Contact us by call or our whatsapp number. We'll schedule a free consultation to review your NDIS plan, discuss your goals, and match you with the right support workers or nurses.</p>
+                        </div>
+
+                        <!-- Q2 -->
+                        <button class="custom-accordion-btn">Do you support Self-Managed or Plan-Managed NDIS participants?</button>
+                        <div class="custom-panel">
+                            <p>Yes. We work with NDIA-managed, Plan-Managed, and Self-Managed participants. We can invoice your Plan Manager directly or provide invoices for self-claiming.</p>
+                        </div>
+
+                        <!-- Q3 -->
+                        <button class="custom-accordion-btn">Is Bells NSS a Registered NDIS Provider?</button>
+                        <div class="custom-panel">
+                            <p>Yes. We're fully registered and meet all government quality and safety standards, including the ability to provide high-risk supports like Community Nursing.</p>
+                        </div>
+
+                        <!-- Q4 -->
+                        <button class="custom-accordion-btn">Can you provide support staff who speak my language?</button>
+                        <div class="custom-panel">
+                            <p>Absolutely. We're a multicultural provider with diverse staff. We'll do our best to match you with a support worker or nurse who speaks your language or understands your cultural background.</p>
+                        </div>
+
+                        <!-- Q5 -->
+                        <button class="custom-accordion-btn">What's the difference between Personal Care and Community Nursing?</button>
+                        <div class="custom-panel">
+                            <p>Personal Care involves daily living tasks like showering and dressing, provided by trained Support Workers. Community Nursing involves clinical medical care like wound management and injections, provided by qualified Registered Nurses or Enrolled Nurses.</p>
+                        </div>
+
+                        <!-- Q6 -->
+                        <button class="custom-accordion-btn">Can I choose my support worker?</button>
+                        <div class="custom-panel">
+                            <p>We carefully match staff based on your needs and preferences. If a worker isn't the right fit, just let us know and we'll arrange a replacement. Your comfort matters.</p>
+                        </div>
+
+                        <!-- Q7 -->
+                        <button class="custom-accordion-btn">Will I have to pay anything out of pocket?</button>
+                        <div class="custom-panel">
+                            <p>Generally, no. If the service is in your NDIS plan and considered reasonable and necessary, we invoice the NDIS directly. You'd only pay out of pocket for services outside your plan or if you exceed your budget.</p>
+                        </div>
+
+                        <!-- Q8 -->
+                        <button class="custom-accordion-btn">What NDIS budget categories do your services fall under?</button>
+                        <div class="custom-panel">
+                            <p><strong>Community Nursing:</strong> Capacity Building (Improved Daily Living) or Core Supports (Disability Related Health Support)<br>
+                            <strong>Personal Care & Household Tasks:</strong> Core Supports (Assistance with Daily Life)<br>
+                            <strong>Travel:</strong> Core Supports (Transport)<br>
+                            <strong>Social Activities:</strong> Core Supports (Assistance with Social, Economic and Community Participation)</p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <?php include("includes/faq-script.php"); ?>
 
     <section class="clients-section-five" style="background-image: url(images/wood-dark.png); ">
       <div class="auto-container text-center">

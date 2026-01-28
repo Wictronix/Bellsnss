@@ -16076,3 +16076,526 @@ p.ttt {
         font-size: 44px !important;
         margin-bottom: 10px !important;
     }
+/* Mobile Responsiveness Improvements */
+@media (max-width: 767px) {
+    /* Hero Section Adjustment */
+    .about-section {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .about-section .image-column {
+        margin-bottom: 20px;
+    }
+
+    .about-section .image-box figure.image img {
+        height: 250px !important; /* Reduce height */
+        object-fit: cover;
+        width: 100%;
+    }
+
+    .about-section .content-column h2.title {
+        font-size: 24px !important; /* Reduce font size */
+        line-height: 1.3em;
+        margin-bottom: 15px;
+    }
+    
+    .about-section .content-column .text {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+
+    .about-section .btn-box {
+        margin-top: 10px;
+    }
+}
+
+/* Floating WhatsApp Button */
+.floating-whatsapp {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 9999;
+    background-color: #25d366;
+    color: #fff;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 35px;
+    line-height: 60px;
+    box-shadow: 2px 2px 3px #999;
+    transition: all 0.3s ease;
+}
+
+.floating-whatsapp:hover {
+    background-color: #128c7e;
+    color: #fff;
+    transform: scale(1.1);
+}
+
+.floating-whatsapp i {
+    line-height: 60px; /* Ensure vertical centering */
+}
+
+
+/* Mission/Vision/Values Section UI Improvements */
+.counter-section .count-box {
+    margin-bottom: 30px;
+}
+
+.counter-section .count-box .inner {
+    background: rgba(255, 255, 255, 0.95);
+    padding: 30px 25px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    height: 100%;
+    border: 1px solid rgba(0,0,0,0.05);
+}
+
+.counter-section .count-box .inner:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+}
+
+.counter-section .content .counter-title h4 {
+    color: #0b3a86; /* Brand Blue */
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+.counter-section .content .ttt {
+    color: #333;
+    line-height: 1.6em;
+    font-size: 15px;
+}
+
+.counter-section .icon-box img {
+    margin-bottom: 20px;
+    transition: transform 0.3s ease;
+}
+
+.counter-section .count-box .inner:hover .icon-box img {
+    transform: scale(1.1);
+}
+
+/* Ensure mobile spacing */
+@media (max-width: 767px) {
+    .counter-section .count-box {
+        margin-bottom: 20px;
+    }
+}
+
+
+/* FAQ Section Styles */
+.faq-section {
+    padding: 80px 0;
+    background-color: #f9f9f9;
+}
+
+.faq-section .accordion-box .block {
+    position: relative;
+    background-color: #ffffff;
+    padding: 0;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    overflow: hidden;
+}
+
+.faq-section .accordion-box .block .acc-btn {
+    position: relative;
+    padding: 20px 60px 20px 25px;
+    cursor: pointer;
+    font-size: 18px;
+    color: #0b3a86;
+    font-weight: 600;
+    line-height: 1.4em;
+    transition: all 500ms ease;
+}
+
+.faq-section .accordion-box .block .acc-btn .icon {
+    position: absolute;
+    right: 25px;
+    top: 22px;
+    font-size: 16px;
+    transition: all 500ms ease;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 50%;
+    background: #f2f2f2;
+    color: #333;
+}
+
+.faq-section .accordion-box .block .acc-btn.active .icon {
+    background: #0b3a86;
+    color: #fff;
+    transform: rotate(45deg); /* Optional for converting plus to close */
+}
+
+/* If icon is plus/minus, rotate for plus->minus */
+.faq-section .accordion-box .block .acc-btn.active .icon:before {
+   /* content: '\\f068'; */ /* Start with plus, maybe? existing creates plus. */
+}
+
+.faq-section .accordion-box .block .acc-content {
+    position: relative;
+    display: none;
+}
+.faq-section .accordion-box .block .acc-content.current {
+    display: block;
+}
+
+.faq-section .accordion-box .block .acc-content .content {
+    padding: 0 25px 25px 25px;
+}
+
+.faq-section .accordion-box .block .acc-content .content .text {
+    font-size: 16px;
+    line-height: 28px;
+    color: #666666;
+}
+
+/* Modal Custom Styles */
+.custom-modal {
+    border-radius: 15px;
+    border: none;
+    overflow: hidden;
+}
+
+.custom-modal .modal-header {
+    background: #0b3a86;
+    color: #fff;
+    border-bottom: none;
+    padding: 20px 30px;
+}
+
+.custom-modal .modal-title {
+    color: #fff;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.custom-modal .close {
+    color: #fff;
+    opacity: 1;
+    text-shadow: none;
+    font-size: 28px;
+    top: 20px;
+    right: 20px;
+}
+
+.custom-modal .modal-body {
+    padding: 30px;
+    background: #fff;
+}
+
+.custom-modal .modal-subtitle {
+    font-size: 18px;
+    font-weight: 600;
+    color: #0b3a86;
+    margin-bottom: 20px;
+}
+
+.custom-modal .modal-body p {
+    font-size: 16px;
+    line-height: 1.8em;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+/* Mobile Responsiveness for Modal and FAQ */
+@media (max-width: 767px) {
+    .faq-section {
+        padding: 50px 0;
+    }
+    
+    .faq-section .accordion-box .block .acc-btn {
+        font-size: 16px;
+        padding-right: 50px;
+    }
+    
+    .custom-modal .modal-title {
+        font-size: 20px;
+    }
+    
+    .custom-modal .modal-body {
+        padding: 20px;
+    }
+    
+    .custom-modal .modal-subtitle {
+        font-size: 16px;
+    }
+}
+
+
+/* Service Modal Styles */
+.service-modal {
+    display: none; 
+    position: fixed; 
+    z-index: 10000; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgba(0,0,0,0.6); 
+    backdrop-filter: blur(5px);
+}
+
+.service-modal-content {
+    background-color: #fefefe;
+    margin: 5% auto; 
+    padding: 30px;
+    border: 1px solid #888;
+    width: 90%; 
+    max-width: 700px;
+    border-radius: 15px;
+    position: relative;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    animation: modalSlideIn 0.3s ease-out;
+}
+
+@keyframes modalSlideIn {
+    from {transform: translateY(-50px); opacity: 0;}
+    to {transform: translateY(0); opacity: 1;}
+}
+
+.close-modal {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+    line-height: 1;
+}
+
+.close-modal:hover,
+.close-modal:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modal-title {
+    color: #0b3a86;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.modal-body p {
+    font-size: 16px; 
+    line-height: 1.6;
+    color: #444;
+    margin-bottom: 15px;
+}
+
+.modal-btn {
+    display: inline-block;
+    padding: 12px 30px;
+    background-color: #0b3a86;
+    color: white !important;
+    border-radius: 50px;
+    font-weight: 600;
+    margin-top: 15px;
+    transition: all 0.3s;
+}
+
+.modal-btn:hover {
+    background-color: #fec63f;
+    color: #0b3a86 !important;
+}
+
+/* FAQ Section Styles */
+.faq-section {
+    padding: 80px 0;
+    background-color: #f9f9f9;
+}
+
+.faq-section .sec-title-two {
+    margin-bottom: 50px;
+}
+
+.accordion-item {
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,0.05);
+    margin-bottom: 15px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.02);
+}
+
+.accordion-button {
+    background-color: #fff;
+    color: #333;
+    cursor: pointer;
+    padding: 20px 25px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 18px;
+    font-weight: 600;
+    transition: 0.4s;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.accordion-button:hover, .accordion-button.active {
+    background-color: #f2f6fc;
+    color: #0b3a86;
+}
+
+.accordion-button:after {
+    content: '\002B'; /* Plus sign */
+    color: #0b3a86;
+    font-weight: bold;
+    font-size: 24px;
+    float: right;
+    margin-left: 5px;
+}
+
+.accordion-button.active:after {
+    content: '\2212'; /* Minus sign */
+}
+
+.accordion-body {
+    padding: 0 25px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+.accordion-body p {
+    padding: 20px 0;
+    margin: 0;
+    font-size: 16px;
+    color: #666;
+}
+
+
+/* Fix FAQ Visibility and Icons */
+.accordion-body {
+    max-height: none !important; /* Allow Bootstrap to handle collapse */
+    overflow: visible !important;
+}
+
+/* Remove custom icon if it conflicts, or style it properly */
+.accordion-button:after {
+    display: none !important; /* Hide my custom icon to remove duplicate */
+}
+
+/* Ensure Modal Z-Index and Close Button */
+.service-modal {
+    z-index: 99999 !important; /* Ensure on top of everything */
+}
+.close-modal {
+    opacity: 1 !important;
+    color: #333 !important;
+    font-size: 40px !important;
+    top: 10px;
+    right: 20px;
+    position: absolute;
+}
+.modal-btn {
+    display: inline-block !important; /* Force display */
+    visibility: visible !important;
+}
+
+
+/* ROBUST MODAL FIXES */
+.service-modal {
+    display: none; 
+    position: fixed !important; 
+    z-index: 2147483647 !important; /* Max z-index */
+    left: 0;
+    top: 0;
+    width: 100vw; 
+    height: 100vh; 
+    overflow: auto; 
+    background-color: rgba(0,0,0,0.85) !important; 
+    backdrop-filter: blur(5px);
+}
+
+.service-modal-content {
+    background-color: #fefefe;
+    margin: 10vh auto; /* Center vertically better */
+    padding: 25px;
+    border: 1px solid #888;
+    width: 90%; 
+    max-width: 600px; /* Max width for desktop */
+    border-radius: 12px;
+    position: relative;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+    animation: modalPop 0.3s ease-out;
+}
+
+@media (max-width: 768px) {
+    .service-modal-content {
+        width: 95% !important;
+        margin: 5vh auto;
+        padding: 20px;
+    }
+    .modal-btn {
+        width: 100%;
+        text-align: center;
+        margin-top: 20px !important;
+    }
+}
+
+@keyframes modalPop {
+    from {transform: scale(0.8); opacity: 0;}
+    to {transform: scale(1); opacity: 1;}
+}
+
+/* Close Button - Made very large and obvious */
+.close-modal {
+    color: #333 !important;
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    font-size: 35px !important;
+    font-weight: bold;
+    line-height: 1;
+    cursor: pointer;
+    z-index: 1001;
+    background: #fff;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    border-radius: 50%;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.close-modal:hover {
+    background: #f0f0f0;
+    color: #000;
+}
+
+/* Call Now Button - Forced Visibility */
+.modal-btn {
+    display: block !important;
+    background-color: #0b3a86 !important;
+    color: #ffffff !important;
+    padding: 15px 30px !important;
+    border-radius: 50px !important;
+    text-align: center;
+    text-decoration: none !important;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 20px auto 0 auto !important;
+    width: fit-content;
+    box-shadow: 0 4px 15px rgba(11, 58, 134, 0.3);
+}
+
+.modal-btn:hover {
+    background-color: #fec63f !important;
+    color: #0b3a86 !important;
+    transform: translateY(-2px);
+}
+
