@@ -64,6 +64,130 @@
 </section>
 <!--End Bread Creum -->
 
+<!-- Embedded CSS for Modals to ensure loading and priority -->
+<style>
+/* Modal Overlay - Full Screen */
+.service-modal {
+    display: none; /* Hidden by default */
+    position: fixed !important;
+    z-index: 2147483647 !important; /* Topmost */
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgba(0,0,0,0.8) !important; /* Dark overlay */
+    backdrop-filter: blur(4px); /* Modern blur effect */
+}
+
+/* Modal Content Box */
+.service-modal-content {
+    background-color: #fff !important;
+    margin: 5% auto; /* 5% from top and centered */
+    padding: 25px;
+    border: none;
+    width: 90%; 
+    max-width: 600px; /* Fixed width for desktop */
+    border-radius: 15px;
+    position: relative;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.5);
+    animation: simpleFadeIn 0.3s;
+}
+
+/* Show State */
+.service-modal.show {
+    display: block !important;
+}
+
+@keyframes simpleFadeIn {
+    from {opacity: 0; transform: translateY(-30px);}
+    to {opacity: 1; transform: translateY(0);}
+}
+
+/* Close Button - Top Right */
+.close-modal {
+    color: #555 !important;
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    font-size: 35px !important;
+    font-weight: bold;
+    cursor: pointer;
+    line-height: 1;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    background: #f1f1f1;
+    border-radius: 50%;
+    transition: 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 4px; /* Adjust vertical center */
+}
+.close-modal:hover {
+    background: #FF0000;
+    color: white !important;
+}
+
+/* Title Styling */
+.modal-title {
+    color: #0b3a86;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-weight: 700;
+    font-size: 24px;
+    border-bottom: 2px solid #f2f2f2;
+    padding-bottom: 15px;
+}
+
+/* Body Text */
+.modal-body p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #444;
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+/* Call Now Button */
+.modal-btn {
+    display: inline-block !important;
+    background-color: #0b3a86 !important;
+    color: #ffffff !important;
+    padding: 12px 35px !important;
+    border-radius: 50px !important;
+    text-align: center;
+    text-decoration: none !important;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+    box-shadow: 0 5px 15px rgba(11, 58, 134, 0.2);
+    transition: transform 0.2s;
+}
+.modal-btn:hover {
+    background-color: #fec63f !important;
+    color: #0b3a86 !important;
+    transform: scale(1.05);
+}
+
+/* Mobile Adjustments */
+@media (max-width: 768px) {
+    .service-modal-content {
+        width: 95% !important;
+        margin: 15% auto; /* Lower down on mobile */
+        padding: 20px;
+    }
+    .modal-title {
+        font-size: 20px;
+    }
+    .modal-btn {
+        width: 100%;
+        display: block;
+    }
+}
+</style>
+
 
 
 <!-- Community Nursing Care Modal -->
