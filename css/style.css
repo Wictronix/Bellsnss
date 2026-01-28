@@ -16599,3 +16599,26 @@ p.ttt {
     transform: translateY(-2px);
 }
 
+
+/* FAILSAFE: Force hide modals on load */
+.service-modal {
+    display: none !important;
+}
+/* When we openly want to show it via JS, we will need to override this. 
+   Actually, JS setting style.display = 'block' usually overrides class styles, 
+   but !important in class makes it hard. 
+   
+   Better approach: Use a specific class for 'show' or just rely on inline style if I don't use !important in CSS.
+   
+   Wait, if I use display: none !important; in CSS, JS 'style.display = block' WON'T work easily unless I set style.display = 'block !important' which is messy in JS.
+   
+   Instead, I should use:
+   .service-modal { display: none; }
+   .service-modal.show-modal { display: block !important; }
+   
+   And update JS to toggle the class. This is cleaner and more robust than inline styles vs !important wars.
+*/
+.service-modal.show {
+    display: block !important;
+}
+

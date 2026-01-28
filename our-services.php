@@ -67,7 +67,7 @@
 
 
 <!-- Community Nursing Care Modal -->
-<div id="modal-community-nursing" class="service-modal">
+<div id="modal-community-nursing" class="service-modal" style="display: none;">
   <div class="service-modal-content">
     <span class="close-modal" data-target="modal-community-nursing">&times;</span>
     <h3 class="modal-title">Community Nursing Care</h3>
@@ -84,7 +84,7 @@
 </div>
 
 <!-- Daily Personal Care Modal -->
-<div id="modal-personal-care" class="service-modal">
+<div id="modal-personal-care" class="service-modal" style="display: none;">
   <div class="service-modal-content">
     <span class="close-modal" data-target="modal-personal-care">&times;</span>
     <h3 class="modal-title">Daily Personal Care</h3>
@@ -101,7 +101,7 @@
 </div>
 
 <!-- Assistance with Travel Modal -->
-<div id="modal-travel" class="service-modal">
+<div id="modal-travel" class="service-modal" style="display: none;">
   <div class="service-modal-content">
     <span class="close-modal" data-target="modal-travel">&times;</span>
     <h3 class="modal-title">Assistance with Travel</h3>
@@ -118,7 +118,7 @@
 </div>
 
 <!-- Household Tasks Modal -->
-<div id="modal-household" class="service-modal">
+<div id="modal-household" class="service-modal" style="display: none;">
   <div class="service-modal-content">
     <span class="close-modal" data-target="modal-household">&times;</span>
     <h3 class="modal-title">Household Tasks</h3>
@@ -135,7 +135,7 @@
 </div>
 
 <!-- Social Activities Modal -->
-<div id="modal-social" class="service-modal">
+<div id="modal-social" class="service-modal" style="display: none;">
   <div class="service-modal-content">
     <span class="close-modal" data-target="modal-social">&times;</span>
     <h3 class="modal-title">Participate in Social Activities</h3>
@@ -168,7 +168,8 @@ document.addEventListener('DOMContentLoaded', function() {
             
             var modal = document.getElementById(targetId);
             if (modal) {
-                modal.style.display = "block";
+                modal.classList.add('show');
+                modal.style.display = 'block'; // Fallback
                 document.body.style.overflow = "hidden"; // Disable scroll
             } else {
                 console.error("Modal not found: " + targetId);
@@ -176,24 +177,18 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    // Close Modal logic (X button and Background)
-    // We use delegation on the body or document to catch clicks for surety, 
-    // or just bind directly to the known elements if they exist.
-    
+    // Close Modal logic
     var closeBtns = document.querySelectorAll('.close-modal');
-    console.log("Found " + closeBtns.length + " close buttons");
-    
     closeBtns.forEach(function(btn) {
         btn.addEventListener('click', function(e) {
-            e.preventDefault(); // Prevent default if it's an anchor
-            e.stopPropagation(); // Stop bubbling
+            e.preventDefault(); 
+            e.stopPropagation(); 
             
             var targetId = this.getAttribute('data-target');
-            console.log("Close clicked for: " + targetId);
-
             var modal = document.getElementById(targetId);
             if (modal) {
-                modal.style.display = "none";
+                modal.classList.remove('show');
+                modal.style.display = 'none'; // Fallback
                 document.body.style.overflow = "auto";
             }
         });
@@ -201,9 +196,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Close on outside click
     window.onclick = function(event) {
+        // We look for the class explicitly
         if (event.target.classList.contains('service-modal')) {
             console.log("Outside click detected");
-            event.target.style.display = "none";
+            event.target.classList.remove('show');
+            event.target.style.display = 'none';
             document.body.style.overflow = "auto";
         }
     }
