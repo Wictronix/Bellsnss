@@ -4,6 +4,13 @@ RewriteEngine On
 RewriteCond %{HTTPS} off 
 RewriteRule (.*) https://www.bellsnss.com.au%{REQUEST_URI}
 
+# Browser Caching rules
+<IfModule mod_headers.c>
+  <FilesMatch "\.(ico|jpeg|jpg|png|webp|svg|css|js|woff2?|eot|ttf|otf)$">
+    Header set Cache-Control "max-age=31536000, public"
+  </FilesMatch>
+</IfModule>
+
 # php -- BEGIN cPanel-generated handler, do not edit
 # Set the “ea-php82” package as the default “PHP” programming language.
 <IfModule mime_module>

@@ -34,7 +34,8 @@
   <link rel="icon" href="images/favicon.png" type="image/x-icon" />
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://code.jquery.com https://cdn.jsdelivr.net https://stackpath.bootstrapcdn.com https://cdnjs.cloudflare.com; object-src 'none';">
 </head>
 
 <body>
@@ -57,7 +58,7 @@
             <div class="inner-column">
               <div class="image-box">
                 <figure class="image overlay-anim jkl1">
-                  <a href="#"><img src="images/aboutt--1.jpg" alt="Bell's NSS nurse providing in‑home support to a client" /></a>
+                  <a href="#"><img src="images/aboutt--1.webp" fetchpriority="high" alt="Bell's NSS nurse providing in‑home support to a client" /></a>
                 </figure>
 
 
@@ -87,7 +88,7 @@
 
 
 
-    <section class="counter-section" style="background-image: url(images/background-2.jpg);">
+    <section class="counter-section">
       <div class="auto-container">
         <!-- <div class="sec-title jkl centered">
               <h2 style="color: white;">Our Services</h2>
@@ -96,11 +97,11 @@
           <div class="column count-box col-lg-4 col-md-4 col-sm-6 col-xs-12 counted">
             <div class="inner">
               <div class="content">
-                <div class="icon-box"> <img src="images/m1.png">
+                <div class="icon-box"> <img src="images/m1.png" alt="Mission icon">
                   <!--   <span class="icon flaticon-business-3"></span> -->
                 </div>
                 <div class="counter-title">
-                  <h4>Our Mission</h4>
+                  <h3>Our Mission</h3>
                 </div>
                 <p class="ttt">To provide our participants with exceptional, compassionate, and superior in-home disability support services, always with respect and decency.</p>
               </div>
@@ -109,9 +110,9 @@
           <div class="column count-box col-lg-4 col-md-4 col-sm-6 col-xs-12 counted">
             <div class="inner">
               <div class="content">
-                <div class="icon-box"><img src="images/v1.png"></div>
+                <div class="icon-box"><img src="images/v1.png" alt="Vision icon"></div>
                 <div class="counter-title">
-                  <h4>Our Vision</h4>
+                  <h3>Our Vision</h3>
                 </div>
                 <p class="ttt">To be the most well-known multicultural NDIS provider in Melbourne, promoting an inclusive, disability-focused community.</p>
               </div>
@@ -120,9 +121,9 @@
           <div class="column count-box col-lg-4 col-md-4 col-sm-6 col-xs-12 counted">
             <div class="inner">
               <div class="content">
-                <div class="icon-box"><img src="images/v2.png"></div>
+                <div class="icon-box"><img src="images/v2.png" alt="Values icon"></div>
                 <div class="counter-title">
-                  <h4>Our Values</h4>
+                  <h3>Our Values</h3>
                 </div>
                 <p class="ttt">The principles of excellence, acceptance, and multiculturalism form the foundation of every NDIS service we offer.</p>
                 <br>
@@ -157,7 +158,7 @@
                 <figure class="image overlay-anim jklll"><img src="images/ser-1.jpg" alt="Community nurse providing clinical care in a home setting"> /></figure>
               </div>
               <div class="content-box">
-                <h4 class="title"><a href="#">Community Nursing Care</a></h4>
+                <h3 class="title"><a href="#">Community Nursing Care</a></h3>
                 <div class="text">For complex clinical needs, our multicultural, professional nursing team provides skilled NDIS community nursing.
                 </div>
                 <div class="btmm  text-center"> <a href="our-services.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
@@ -173,7 +174,7 @@
                 <figure class="image overlay-anim jklll"><img src="images/ser-2.jpg" alt="Support worker assisting a client with daily personal care" /></figure>
               </div>
               <div class="content-box">
-                <h4 class="title"><a href="#">Daily personal care</a></h4>
+                <h3 class="title"><a href="#">Daily personal care</a></h3>
                 <div class="text">Our respectful NDIS personal care services assist you in maintaining your independence and daily routine.
                 </div>
                 <div class="btmm  text-center"> <a href="our-services.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
@@ -190,7 +191,7 @@
                 <figure class="image overlay-anim jklll"><img src="images/ser-3.jpg" alt="Support staff helping a client with travel and transport" /></figure>
               </div>
               <div class="content-box">
-                <h4 class="title"><a href="#">Assistance with travel </a></h4>
+                <h3 class="title"><a href="#">Assistance with travel </a></h3>
                 <div class="text">Move safely with the reliable NDIS travel assistance. We encourage appointments, community access, and social activities.
                 </div>
                 <div class="btmm  text-center"> <a href="our-services.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
@@ -211,7 +212,7 @@
                 <figure class="image overlay-anim jklll"><img src="images/ser-4.jpg" alt="Support worker performing household tasks and meal preparation" /></figure>
               </div>
               <div class="content-box">
-                <h4 class="title"><a href="#"> Household tasks</a></h4>
+                <h3 class="title"><a href="#"> Household tasks</a></h3>
                 <div class="text">To simplify life, we help with meal preparation, cleaning, and gardening in our NDIS household tasks assistance.
                 </div>
                 <div class="btmm  text-center"> <a href="our-services.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
@@ -226,7 +227,7 @@
                 <figure class="image overlay-anim jklll"><img src="images/ser-5.jpg" alt="Participants enjoying a community social activity" /></figure>
               </div>
               <div class="content-box">
-                <h4 class="title"><a href="#">Participate in social activities</a></h4>
+                <h3 class="title"><a href="#">Participate in social activities</a></h3>
                 <div class="text">We establish a welcoming atmosphere for social events.  Our team helps you connect with your community and learn new skills.
                 </div>
                 <div class="btmm  text-center"> <a href="our-services.php" class="view-more1">View more<i class="fa fa-arrow-right"></i></a> </div>
@@ -278,7 +279,7 @@
 
 
 
-    <section class="testimonial-section" style="background-image: url(images/bg-testi.jpg); background-attachment: fixed; background-size: cover;">
+    <section class="testimonial-section">
       <div class="auto-container">
         <div class="sec-title-two text-center">
           <h2> CLIENT <span class="h2-about">REVIEWS </span></h2>
@@ -394,12 +395,12 @@
           <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
             <div class="inner-box">
               <div class="image-box">
-                <figure class="image overlay-anim"><img src="images/blogs/blog1.jpg" alt="Nurse empowering a specially‑abled patient during care" /></figure>
+                <figure class="image overlay-anim"><img src="images/blogs/blog1.webp" alt="Nurse empowering a specially‑abled patient during care" /></figure>
               </div>
               <div class="content-box">
-                <h4 class="title"><a href="blog-unsung-heroes.php">The Unsung Heroes: How Nurses Empower Specially-Abled Patients in NDIS</a></h4>
+                <h3 class="title"><a href="blog-unsung-heroes.php">The Unsung Heroes: How Nurses Empower Specially-Abled Patients in NDIS</a></h3>
                 <div class="text">Discover how community nurses are the backbone of NDIS, empowering patients through adaptive techniques, decision-making support, and confidence building...</div>
-                <div class="btmm text-center"> <a href="blog-unsung-heroes.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                <div class="btmm text-center"> <a href="blog-unsung-heroes.php" class="view-more1">Read more<span class="sr-only"> about The Unsung Heroes</span><i class="fa fa-arrow-right"></i></a> </div>
               </div>
             </div>
           </div>
@@ -407,12 +408,12 @@
           <div class="service-block col-lg-4 col-sm-6 wow fadeInUp">
             <div class="inner-box">
               <div class="image-box">
-                <figure class="image overlay-anim"><img src="images/blogs/blog2.jpg" alt="Home‑based nursing visit with client and family" /></figure>
+                <figure class="image overlay-anim"><img src="images/blogs/blog2.webp" alt="Home‑based nursing visit with client and family" /></figure>
               </div>
               <div class="content-box">
-                <h4 class="title"><a href="blog-home-based-care.php">The Nurse's Guide to Home-Based Care for Specially-Abled Patients</a></h4>
+                <h3 class="title"><a href="blog-home-based-care.php">The Nurse's Guide to Home-Based Care for Specially-Abled Patients</a></h3>
                 <div class="text">Learn NDIS comprehensive strategies for providing quality home-based care, including holistic evaluation, safety measures, and family support...</div>
-                <div class="btmm text-center"> <a href="blog-home-based-care.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                <div class="btmm text-center"> <a href="blog-home-based-care.php" class="view-more1">Read more<span class="sr-only"> about Home-Based Care</span><i class="fa fa-arrow-right"></i></a> </div>
               </div>
             </div>
           </div>
@@ -420,12 +421,12 @@
           <div class="service-block col-lg-4 col-sm-6 wow fadeInUp">
             <div class="inner-box">
               <div class="image-box">
-                <figure class="image overlay-anim"><img src="images/blogs/blog3.jpg" alt="Wearable health technology used in modern nursing care" /></figure>
+                <figure class="image overlay-anim"><img src="images/blogs/blog3.webp" alt="Wearable health technology used in modern nursing care" /></figure>
               </div>
               <div class="content-box">
-                <h4 class="title"><a href="blog-innovations-nursing.php">Innovations in Nursing Care for Specially-Abled Individuals</a></h4>
+                <h3 class="title"><a href="blog-innovations-nursing.php">Innovations in Nursing Care for Specially-Abled Individuals</a></h3>
                 <div class="text">Explore how technology and innovation are revolutionizing nursing care through smart home integration, wearable sensors, and AI-enhanced systems...</div>
-                <div class="btmm text-center"> <a href="blog-innovations-nursing.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                <div class="btmm text-center"> <a href="blog-innovations-nursing.php" class="view-more1">Read more<span class="sr-only"> about Innovations in Nursing</span><i class="fa fa-arrow-right"></i></a> </div>
               </div>
             </div>
           </div>
@@ -433,12 +434,12 @@
           <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="400ms">
             <div class="inner-box">
               <div class="image-box">
-                <figure class="image overlay-anim"><img src="images/blogs/blog4.jpg" alt="Counselling session focused on mental health support" /></figure>
+                <figure class="image overlay-anim"><img src="images/blogs/blog4.webp" alt="Counselling session focused on mental health support" /></figure>
               </div>
               <div class="content-box">
-                <h4 class="title"><a href="blog-mental-health.php">Addressing Mental Health in Specially-Abled Patients</a></h4>
+                <h3 class="title"><a href="blog-mental-health.php">Addressing Mental Health in Specially-Abled Patients</a></h3>
                 <div class="text">Understanding and addressing the unique mental health challenges faced by specially-abled individuals through evidence-based nursing strategies...</div>
-                <div class="btmm text-center"> <a href="blog-mental-health.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                <div class="btmm text-center"> <a href="blog-mental-health.php" class="view-more1">Read more<span class="sr-only"> about Mental Health</span><i class="fa fa-arrow-right"></i></a> </div>
               </div>
             </div>
           </div>
@@ -462,7 +463,7 @@
                 <figure class="image overlay-anim"><img src="images/ser-1.jpg" alt /></figure>
               </div>
               <div class="content-box">
-                <h4 class="title"><a href="article-details.php">The Importance of Community Nursing Care</a></h4>
+                <h3 class="title"><a href="article-details.php">The Importance of Community Nursing Care</a></h3>
                 <div class="text">Discover how community nursing care plays a vital role in supporting individuals with disabilities in their daily lives...</div>
                 <div class="btmm text-center"> <a href="article-details.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
@@ -475,7 +476,7 @@
                 <figure class="image overlay-anim"><img src="images/ser-2.jpg" alt /></figure>
               </div>
               <div class="content-box">
-                <h4 class="title"><a href="blog-details.php">Effective Household Tasks for Independence</a></h4>
+                <h3 class="title"><a href="blog-details.php">Effective Household Tasks for Independence</a></h3>
                 <div class="text">Explore various household tasks that can help individuals with disabilities maintain independence...</div>
                 <div class="btmm text-center"> <a href="article-details.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
@@ -488,7 +489,7 @@
                 <figure class="image overlay-anim"><img src="images/ser-3.jpg" alt /></figure>
               </div>
               <div class="content-box">
-                <h4 class="title"><a href="blog-details.php">Participating in Social Activities: Benefits and Tips</a></h4>
+                <h3 class="title"><a href="blog-details.php">Participating in Social Activities: Benefits and Tips</a></h3>
                 <div class="text">Understand the importance of social activities for individuals with disabilities and how to encourage participation...</div>
                 <div class="btmm text-center"> <a href="article-details.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
               </div>
@@ -669,9 +670,9 @@
   <script src="js/slick-animation.min.js"></script>
   <script src="js/jquery.fancybox.js"></script>
   <script src="js/progress-bar.js"></script>
-  <script src="js/wow.js"></script>
-  <script src="js/appear.js"></script>
-  <script src="js/mixitup.js"></script>
+  <script src="js/wow.js" defer></script>
+  <script src="js/appear.js" defer></script>
+  <script src="js/mixitup.js" defer></script>
   <script src="js/script.js"></script>
 </body>
 

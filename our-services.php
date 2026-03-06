@@ -34,8 +34,9 @@
         <link rel="icon" href="images/favicon.png" type="image/x-icon" />
 
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-    </head>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://code.jquery.com https://cdn.jsdelivr.net https://stackpath.bootstrapcdn.com https://cdnjs.cloudflare.com; object-src 'none';">
+</head>
     <body>
         <div class="page-wrapper">
 
@@ -470,9 +471,9 @@ document.addEventListener('DOMContentLoaded', function() {
         <script src="js/slick-animation.min.js"></script>
         <script src="js/jquery.fancybox.js"></script>
         <script src="js/progress-bar.js"></script>
-        <script src="js/wow.js"></script>
-        <script src="js/appear.js"></script>
-        <script src="js/mixitup.js"></script>
+        <script src="js/wow.js" defer></script>
+        <script src="js/appear.js" defer></script>
+        <script src="js/mixitup.js" defer></script>
         <script src="js/script.js"></script>
     </body>
 </html>
