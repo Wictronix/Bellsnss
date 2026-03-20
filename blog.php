@@ -86,6 +86,72 @@
  
                 <div class="row ">
 
+                    <!-- New Blogs -->
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog5.jpg" alt="Elderly NDIS participant receiving respectful daily living support from culturally sensitive care worker in Melbourne home" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-daily-living-support-elderly-ndis.php">Daily Living Support for Elderly Parents on NDIS</a></h4>
+                                 <div class="text">Discover the comprehensive daily living support available for elderly NDIS participants in Melbourne...</div>
+                                 <div class="btmm text-center"> <a href="blog-daily-living-support-elderly-ndis.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog11.jpg" alt="NDIS home care support worker helping elderly client in comfortable Melbourne home setting" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-home-care-services-melbourne.php">Home Care Services in Melbourne: NDIS Options</a></h4>
+                                 <div class="text">Stay independent at home with Melbourne's NDIS home care options, from personal care to nursing...</div>
+                                 <div class="btmm text-center"> <a href="blog-home-care-services-melbourne.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog6.jpg" alt="NDIS registered provider certificate and quality standards badge for Melbourne disability services" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-registered-unregistered-safety.php">Registered vs. Unregistered NDIS Providers</a></h4>
+                                 <div class="text">Learn why choosing a registered NDIS provider in Melbourne is critical for your safety and accountability...</div>
+                                 <div class="btmm text-center"> <a href="blog-registered-unregistered-safety.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog12.jpg" alt="Qualified disability support worker providing respectful high-intensity personal care to client at home in Melbourne" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-high-intensity-personal-care-melbourne.php">In-Home High-Intensity Personal Care</a></h4>
+                                 <div class="text">Managing complex disability needs at home with skilled support workers and registered nurses in Melbourne...</div>
+                                 <div class="btmm text-center"> <a href="blog-high-intensity-personal-care-melbourne.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog10.jpg" alt="Diverse multicultural NDIS support team providing culturally sensitive disability care to Melbourne families" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-culturally-sensitive-ndis-support.php">Culturally Sensitive NDIS Providers in Melbourne</a></h4>
+                                 <div class="text">Why cultural competence and language support are essential for quality disability care in Melbourne...</div>
+                                 <div class="btmm text-center"> <a href="blog-culturally-sensitive-ndis-support.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+                    <!-- Existing Blogs -->
                     <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
                          <div class="inner-box">
                              <div class="image-box">
