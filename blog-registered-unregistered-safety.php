@@ -69,7 +69,7 @@
                             <div class="blog-header">
                                 <h1 class="blog-title">Registered vs. Unregistered NDIS Providers: Why Safety Matters</h1>
                                 <div class="blog-meta">
-                                    <span class="date">Published on March 20, 2026</span>
+                                    <span class="date">Published on February 15, 2026</span>
                                     <span class="category">Provider Info</span>
                                 </div>
                             </div>

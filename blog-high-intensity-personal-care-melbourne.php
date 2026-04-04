@@ -69,7 +69,7 @@
                             <div class="blog-header">
                                 <h1 class="blog-title">In-Home Disability Support: Managing High-Intensity Personal Care</h1>
                                 <div class="blog-meta">
-                                    <span class="date">Published on March 20, 2026</span>
+                                    <span class="date">Published on February 08, 2026</span>
                                     <span class="category">High-Intensity Care</span>
                                 </div>
                             </div>

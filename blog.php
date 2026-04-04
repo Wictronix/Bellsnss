@@ -86,7 +86,73 @@
  
                 <div class="row ">
 
-                    <!-- New Blogs -->
+                    <!-- March 2026 Blogs -->
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog5.jpg" alt="Elderly NDIS participant receiving respectful daily living support from culturally sensitive care worker in Melbourne home" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-daily-living-support-elderly-parents-ndis.php">Daily Living Support for Elderly Parents on NDIS: What's Available?</a></h4>
+                                 <div class="text">Discover what daily living support is available for elderly NDIS participants in Melbourne, from personal care to complex nursing and cultural sensitivity...</div>
+                                 <div class="btmm text-center"> <a href="blog-daily-living-support-elderly-parents-ndis.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog4.jpg" alt="NDIS participant with support worker using accessible transport to attend social activities in Melbourne community" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-ndis-travel-assistance-social-activities.php">NDIS Travel Assistance for Social Activities: Stay Connected in Melbourne</a></h4>
+                                 <div class="text">Learn how NDIS travel assistance for social activities helps you stay connected to your community and access cultural events across Melbourne...</div>
+                                 <div class="btmm text-center"> <a href="blog-ndis-travel-assistance-social-activities.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog3.jpg" alt="Adult with disability working independently with support worker assistance for daily living activities in Melbourne home" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-daily-living-support-adults-independence.php">Daily Living Support for Adults with Disability: Boosting Independence</a></h4>
+                                 <div class="text">Learn how NDIS daily living support for adults with disability builds independence through active support, capacity building and cultural sensitivity in Melbourne...</div>
+                                 <div class="btmm text-center"> <a href="blog-daily-living-support-adults-independence.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog2.jpg" alt="NDIS community nurse performing approved clinical care procedures covered under NDIS funding in Melbourne home" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-what-ndis-community-nursing-covers.php">What Does NDIS Community Nursing Cover? (Inclusions &amp; Exclusions)</a></h4>
+                                 <div class="text">Learn exactly what NDIS community nursing covers, including inclusions, exclusions, and grey areas. Understand specialist nursing funding in Melbourne...</div>
+                                 <div class="btmm text-center"> <a href="blog-what-ndis-community-nursing-covers.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog1.jpg" alt="NDIS registered community nurse providing specialized clinical care for complex health needs in Melbourne home" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-ndis-community-nursing-complex-needs-guide.php">NDIS Community Nursing for Complex Needs: A Complete Guide</a></h4>
+                                 <div class="text">A complete guide to NDIS community nursing for complex needs in Melbourne. What's covered, how to access it, and what specialist nurses can do at home...</div>
+                                 <div class="btmm text-center"> <a href="blog-ndis-community-nursing-complex-needs-guide.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <!-- Previous Blogs -->
                     <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
                          <div class="inner-box">
                              <div class="image-box">
