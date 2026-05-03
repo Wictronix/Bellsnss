@@ -86,6 +86,72 @@
  
                 <div class="row ">
 
+                    <!-- May 2026 Blogs -->
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog1.jpg" alt="NDIS Provider Melbourne" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-how-to-choose-ndis-provider.php">How to Choose an NDIS Provider in Melbourne</a></h4>
+                                 <div class="text">Choosing the right NDIS provider in Melbourne can feel overwhelming. This guide walks you through seven practical checks...</div>
+                                 <div class="btmm text-center"> <a href="blog-how-to-choose-ndis-provider.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog2.jpg" alt="NDIS Community Nursing Melbourne" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-ndis-community-nursing-what-it-covers.php">NDIS Community Nursing Melbourne: What It Covers</a></h4>
+                                 <div class="text">Need a nurse at home in Melbourne? Learn what NDIS community nursing covers, who qualifies, which conditions are funded...</div>
+                                 <div class="btmm text-center"> <a href="blog-ndis-community-nursing-what-it-covers.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog3.jpg" alt="NDIS Personal Care Support Melbourne" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-ndis-personal-care-support-melbourne.php">NDIS Personal Care Support in Melbourne</a></h4>
+                                 <div class="text">Wondering what NDIS personal care covers in Melbourne? Learn what's included, how it's funded in your plan, and what to expect...</div>
+                                 <div class="btmm text-center"> <a href="blog-ndis-personal-care-support-melbourne.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog4.jpg" alt="Supported Independent Living NDIS" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-what-is-sil-under-ndis.php">What Is SIL Under the NDIS?</a></h4>
+                                 <div class="text">What is SIL under the NDIS? Learn how Supported Independent Living works in Melbourne, who qualifies, how to apply...</div>
+                                 <div class="btmm text-center"> <a href="blog-what-is-sil-under-ndis.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
+                    <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
+                         <div class="inner-box">
+                             <div class="image-box">
+                                 <figure class="image overlay-anim"><img src="images/blogs/blog5.jpg" alt="NDIS Plan Management Melbourne" /></figure>
+                             </div>
+                             <div class="content-box">
+                                 <h4 class="title"><a href="blog-ndis-plan-management-explained.php">NDIS Plan Management Explained</a></h4>
+                                 <div class="text">Confused about NDIS plan management? This plain-English guide explains the difference between NDIA-managed, plan-managed...</div>
+                                 <div class="btmm text-center"> <a href="blog-ndis-plan-management-explained.php" class="view-more1">Read more<i class="fa fa-arrow-right"></i></a> </div>
+                             </div>
+                         </div>
+                     </div>
+
                     <!-- March 2026 Blogs -->
                     <div class="service-block col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay="200ms">
                          <div class="inner-box">
